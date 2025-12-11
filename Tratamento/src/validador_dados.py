@@ -390,18 +390,18 @@ if __name__ == "__main__":
     
     # 3. Perguntar se deseja limpar
     print("\n3️⃣  LIMPEZA DE DADOS")
-    resposta = input("\nDeseja limpar os dados removendo produtos inválidos? (s/n): ")
+    # resposta = input("\nDeseja limpar os dados removendo produtos inválidos? (s/n): ")
     
-    if resposta.lower() == 's':
-        print("\nLimpando dados novos...")
-        validador.limpar_pasta("../../Scraper/dados_coletados", "Dados_Limpos/novos")
+    # if resposta.lower() == 's':
+    print("\nLimpando dados novos...")
+    validador.limpar_pasta("../../Scraper/dados_coletados", "Dados_Limpos/novos")
         
-        print("\nLimpando dados históricos...")
-        validador.limpar_pasta("../", "Dados_Limpos/historico")
+    print("\nLimpando dados históricos...")
+    validador.limpar_pasta("../", "Dados_Limpos/historico")
         
-        print("\n✓ Dados limpos salvos em: Dados_Limpos/")
-        print("\n💡 DICA: Use as pastas 'Dados_Limpos/novos' e 'Dados_Limpos/historico'")
-        print("   como entrada no processador principal para melhor qualidade de dados!")
+    print("\n✓ Dados limpos salvos em: Dados_Limpos/")
+    #     print("\n💡 DICA: Use as pastas 'Dados_Limpos/novos' e 'Dados_Limpos/historico'")
+    #     print("   como entrada no processador principal para melhor qualidade de dados!")
     
     print("\n" + "="*80)
     print("VALIDAÇÃO CONCLUÍDA")

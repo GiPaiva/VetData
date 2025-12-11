@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 147
-Total de registros: 29060
-Registros válidos: 26492 (91.2%)
-Registros inválidos: 2568 (8.8%)
-Duplicatas exatas: 3944
+Total de arquivos: 219
+Total de registros: 42555
+Registros válidos: 38877 (91.4%)
+Registros inválidos: 3678 (8.6%)
+Duplicatas exatas: 5279
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard                4980 registros
-  Simparic               3411 registros
-  Bravecto               2649 registros
-  Drontal                2402 registros
-  Revolution             2325 registros
-  Vermivet               1823 registros
-  Advocate               1718 registros
-  Frontline              1491 registros
-  Maxicam                1458 registros
-  Baytril                 742 registros
-  Milbemax                649 registros
-  Onsior                  573 registros
-  Zenrelia                541 registros
-  Carproflan              435 registros
-  Previcox                370 registros
-  Rimadyl                 349 registros
-  Apoquel                 346 registros
-  Synulox                 230 registros
+  Nexgard                7229 registros
+  Simparic               4569 registros
+  Bravecto               3976 registros
+  Revolution             3583 registros
+  Drontal                3425 registros
+  Vermivet               2782 registros
+  Advocate               2531 registros
+  Frontline              2249 registros
+  Maxicam                2155 registros
+  Baytril                1109 registros
+  Milbemax               1006 registros
+  Onsior                  865 registros
+  Zenrelia                818 registros
+  Carproflan              651 registros
+  Previcox                560 registros
+  Rimadyl                 515 registros
+  Apoquel                 512 registros
+  Synulox                 342 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -333,6 +333,156 @@ cobasi_20251115_201158.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 14
+
+cobasi_20251116_201125.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251117_201246.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251118_201259.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251119_201127.xlsx
+  Total: 165
+  Válidos: 165
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251120_201258.xlsx
+  Total: 150
+  Válidos: 150
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251121_201211.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251122_201309.xlsx
+  Total: 148
+  Válidos: 148
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251123_201158.xlsx
+  Total: 165
+  Válidos: 165
+  Inválidos: 0
+  Duplicatas: 15
+
+cobasi_20251124_201245.xlsx
+  Total: 165
+  Válidos: 165
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251125_201226.xlsx
+  Total: 165
+  Válidos: 165
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251126_201219.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251127_201050.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251128_201158.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251129_201408.xlsx
+  Total: 156
+  Válidos: 156
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251130_201204.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251201_201135.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251202_201309.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251203_201317.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251204_201248.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251205_201242.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 15
+
+cobasi_20251206_201123.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 15
+
+cobasi_20251207_201125.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 17
+
+cobasi_20251208_201249.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20251209_201145.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 15
+
+cobasi_20251210_201314.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 17
 
 petlove_20250927_124701.xlsx
   Total: 339
@@ -808,6 +958,281 @@ petlove_20251115_201325.xlsx
      - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 105: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 161: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251116_201253.xlsx
+  Total: 184
+  Válidos: 180
+  Inválidos: 4
+  Duplicatas: 24
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 105: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 161: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251117_201406.xlsx
+  Total: 186
+  Válidos: 182
+  Inválidos: 4
+  Duplicatas: 25
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 106: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 162: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251118_201429.xlsx
+  Total: 188
+  Válidos: 184
+  Inválidos: 4
+  Duplicatas: 24
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 108: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 164: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251119_201507.xlsx
+  Total: 183
+  Válidos: 179
+  Inválidos: 4
+  Duplicatas: 25
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251120_201417.xlsx
+  Total: 186
+  Válidos: 182
+  Inválidos: 4
+  Duplicatas: 25
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251121_201338.xlsx
+  Total: 187
+  Válidos: 183
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251122_201420.xlsx
+  Total: 186
+  Válidos: 182
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 14: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251123_201319.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251124_201403.xlsx
+  Total: 186
+  Válidos: 182
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 14: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251125_201347.xlsx
+  Total: 186
+  Válidos: 182
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 14: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251126_201344.xlsx
+  Total: 186
+  Válidos: 182
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 14: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251127_201202.xlsx
+  Total: 186
+  Válidos: 182
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 13: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251128_201329.xlsx
+  Total: 191
+  Válidos: 187
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 13: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251129_201525.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 14: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251130_201330.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251201_201256.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 13: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251202_201433.xlsx
+  Total: 208
+  Válidos: 204
+  Inválidos: 4
+  Duplicatas: 27
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 12: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 46: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 123: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 179: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251203_201442.xlsx
+  Total: 208
+  Válidos: 204
+  Inválidos: 4
+  Duplicatas: 27
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 46: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 123: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 179: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251204_201419.xlsx
+  Total: 208
+  Válidos: 204
+  Inválidos: 4
+  Duplicatas: 27
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 46: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 123: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 179: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251205_201433.xlsx
+  Total: 202
+  Válidos: 198
+  Inválidos: 4
+  Duplicatas: 27
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 40: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 117: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 173: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251206_201252.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 12: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251207_201248.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 11: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251208_201406.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 11: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251209_201301.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 25
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 11: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20251210_201435.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 11: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
 petz_20250927_124918.xlsx
   Total: 216
@@ -1418,6 +1843,292 @@ petz_20251115_201455.xlsx
      - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 43
+
+petz_20251116_201423.xlsx
+  Total: 209
+  Válidos: 162
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251118_201557.xlsx
+  Total: 209
+  Válidos: 162
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251119_201629.xlsx
+  Total: 209
+  Válidos: 162
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251120_201549.xlsx
+  Total: 207
+  Válidos: 162
+  Inválidos: 45
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 40
+
+petz_20251121_201509.xlsx
+  Total: 206
+  Válidos: 162
+  Inválidos: 44
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 39
+
+petz_20251122_201545.xlsx
+  Total: 206
+  Válidos: 162
+  Inválidos: 44
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 39
+
+petz_20251123_201444.xlsx
+  Total: 206
+  Válidos: 162
+  Inválidos: 44
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 39
+
+petz_20251125_201511.xlsx
+  Total: 207
+  Válidos: 162
+  Inválidos: 45
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 40
+
+petz_20251126_201510.xlsx
+  Total: 208
+  Válidos: 162
+  Inválidos: 46
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 41
+
+petz_20251127_201325.xlsx
+  Total: 206
+  Válidos: 161
+  Inválidos: 45
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 40
+
+petz_20251128_201457.xlsx
+  Total: 206
+  Válidos: 161
+  Inválidos: 45
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães - Tam 6 (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 40
+
+petz_20251129_201652.xlsx
+  Total: 206
+  Válidos: 161
+  Inválidos: 45
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães - Tam 6 (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 40
+
+petz_20251130_201455.xlsx
+  Total: 206
+  Válidos: 161
+  Inválidos: 45
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Nude para Cães - Tam 6 (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 40
+
+petz_20251201_201420.xlsx
+  Total: 205
+  Válidos: 161
+  Inválidos: 44
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 39
+
+petz_20251202_201640.xlsx
+  Total: 211
+  Válidos: 165
+  Inválidos: 46
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 41
+
+petz_20251203_201608.xlsx
+  Total: 212
+  Válidos: 165
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 26: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 27: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 28: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251205_201603.xlsx
+  Total: 212
+  Válidos: 165
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251206_201414.xlsx
+  Total: 212
+  Válidos: 165
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251207_201419.xlsx
+  Total: 212
+  Válidos: 165
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251208_201531.xlsx
+  Total: 216
+  Válidos: 169
+  Inválidos: 47
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 42
+
+petz_20251209_201429.xlsx
+  Total: 212
+  Válidos: 164
+  Inválidos: 48
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 43
+
+petz_20251210_201554.xlsx
+  Total: 212
+  Válidos: 164
+  Inválidos: 48
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 43
 
 ================================================================================
