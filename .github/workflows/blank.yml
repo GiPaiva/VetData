@@ -37,6 +37,11 @@ jobs:
         run: |
           python main.py
 
+      - name: Executar validador_dados.py
+        working-directory: Tratamento/src
+        run: |
+          python validador_dados.py
+
       - name: Commitar resultados
         run: |
           git config --global user.name "github-actions"
