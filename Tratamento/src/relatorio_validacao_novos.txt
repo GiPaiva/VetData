@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 228
-Total de registros: 44270
-Registros válidos: 40436 (91.3%)
-Registros inválidos: 3834 (8.7%)
-Duplicatas exatas: 5447
+Total de arquivos: 231
+Total de registros: 44841
+Registros válidos: 40954 (91.3%)
+Registros inválidos: 3887 (8.7%)
+Duplicatas exatas: 5502
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard                7514 registros
-  Simparic               4707 registros
-  Bravecto               4141 registros
-  Revolution             3751 registros
-  Drontal                3548 registros
-  Vermivet               2896 registros
-  Advocate               2636 registros
-  Frontline              2345 registros
-  Maxicam                2240 registros
-  Baytril                1163 registros
-  Milbemax               1051 registros
-  Onsior                  902 registros
-  Zenrelia                854 registros
-  Carproflan              678 registros
-  Previcox                584 registros
-  Rimadyl                 536 registros
-  Apoquel                 533 registros
-  Synulox                 357 registros
+  Nexgard                7609 registros
+  Simparic               4753 registros
+  Bravecto               4196 registros
+  Revolution             3807 registros
+  Drontal                3589 registros
+  Vermivet               2934 registros
+  Advocate               2670 registros
+  Frontline              2377 registros
+  Maxicam                2267 registros
+  Baytril                1181 registros
+  Milbemax               1066 registros
+  Onsior                  915 registros
+  Zenrelia                866 registros
+  Carproflan              687 registros
+  Previcox                592 registros
+  Rimadyl                 543 registros
+  Apoquel                 540 registros
+  Synulox                 362 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -318,6 +318,19 @@ cobasi_20251129_201408.xlsx
   Válidos: 156
   Inválidos: 0
   Duplicatas: 17
+
+petz_20251214_201431.xlsx
+  Total: 213
+  Válidos: 164
+  Inválidos: 49
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 44
 
 cobasi_20251203_201317.xlsx
   Total: 166
@@ -629,6 +642,17 @@ cobasi_20251017_201158.xlsx
   Inválidos: 0
   Duplicatas: 15
 
+petlove_20251214_201303.xlsx
+  Total: 192
+  Válidos: 188
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 12: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
 petlove_20251106_201409.xlsx
   Total: 184
   Válidos: 181
@@ -782,6 +806,12 @@ petlove_20251211_201449.xlsx
      - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 106: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 162: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+cobasi_20251214_201131.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 15
 
 cobasi_20251027_201021.xlsx
   Total: 167
