@@ -256,19 +256,22 @@ class ValidadorDados:
             )
             depois = len(df_limpo)
             
-            # Salvar
-            Path(pasta_saida).mkdir(exist_ok=True)
-            arquivo_saida = Path(pasta_saida) / f"limpo_{caminho_arquivo.name}"
-            df_limpo.to_excel(arquivo_saida, index=False)
+            # ✅ CORREÇÃO: Garantir que a pasta existe E converter para Path absoluto
+            pasta_destino = Path(pasta_saida).resolve()
+            pasta_destino.mkdir(parents=True, exist_ok=True)
+            
+            arquivo_saida = pasta_destino / f"limpo_{caminho_arquivo.name}"
+            df_limpo.to_excel(str(arquivo_saida), index=False)  # ← Converter para string
             
             logger.info(f"✓ {caminho_arquivo.name}: {len(df)} → {depois} registros "
-                       f"({len(df) - antes} inválidos, {antes - depois} duplicatas)")
+                    f"({len(df) - antes} inválidos, {antes - depois} duplicatas)")
             
             return arquivo_saida
             
         except Exception as e:
             logger.error(f"Erro ao limpar {caminho_arquivo.name}: {e}")
             return None
+
     
     def limpar_pasta(self, pasta, pasta_saida="Dados_Limpos"):
         """
