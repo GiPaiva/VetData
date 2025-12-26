@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 262
-Total de registros: 50693
-Registros válidos: 46330 (91.4%)
-Registros inválidos: 4363 (8.6%)
-Duplicatas exatas: 6091
+Total de arquivos: 265
+Total de registros: 51262
+Registros válidos: 46847 (91.4%)
+Registros inválidos: 4415 (8.6%)
+Duplicatas exatas: 6146
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard                8594 registros
-  Simparic               5235 registros
-  Bravecto               4769 registros
-  Revolution             4387 registros
-  Drontal                4012 registros
-  Vermivet               3340 registros
-  Advocate               3017 registros
-  Frontline              2707 registros
-  Maxicam                2567 registros
-  Baytril                1350 registros
-  Milbemax               1222 registros
-  Onsior                 1046 registros
-  Zenrelia                990 registros
-  Carproflan              780 registros
-  Previcox                676 registros
-  Rimadyl                 614 registros
-  Apoquel                 611 registros
-  Synulox                 413 registros
+  Nexgard                8689 registros
+  Simparic               5281 registros
+  Bravecto               4824 registros
+  Revolution             4443 registros
+  Drontal                4054 registros
+  Vermivet               3378 registros
+  Advocate               3050 registros
+  Frontline              2739 registros
+  Maxicam                2594 registros
+  Baytril                1367 registros
+  Milbemax               1237 registros
+  Onsior                 1059 registros
+  Zenrelia               1002 registros
+  Carproflan              789 registros
+  Previcox                684 registros
+  Rimadyl                 621 registros
+  Apoquel                 618 registros
+  Synulox                 418 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -296,6 +296,19 @@ petlove_20251221_201258.xlsx
      - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 108: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 164: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petz_20251226_201433.xlsx
+  Total: 212
+  Válidos: 164
+  Inválidos: 48
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 31: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     ... e mais 43
 
 cobasi_20251212_201224.xlsx
   Total: 167
@@ -581,6 +594,17 @@ petz_20251205_201603.xlsx
      - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 42
+
+petlove_20251226_201307.xlsx
+  Total: 191
+  Válidos: 187
+  Inválidos: 4
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 106: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
+     - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
 cobasi_20251116_201125.xlsx
   Total: 167
@@ -2082,6 +2106,12 @@ cobasi_20251016_201211.xlsx
   Válidos: 166
   Inválidos: 0
   Duplicatas: 16
+
+cobasi_20251226_201147.xlsx
+  Total: 166
+  Válidos: 166
+  Inválidos: 0
+  Duplicatas: 15
 
 cobasi_20251013_201219.xlsx
   Total: 161
