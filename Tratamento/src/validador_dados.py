@@ -397,13 +397,13 @@ if __name__ == "__main__":
     
     # if resposta.lower() == 's':
     print("\nLimpando dados novos...")
-    validador.limpar_pasta("../../Scraper/dados_coletados", "Dados_Limpos/novos")
+    validador.limpar_pasta("../../Scraper/dados_coletados", "Dados_limpos/novos")
         
     print("\nLimpando dados históricos...")
-    validador.limpar_pasta("../", "Dados_Limpos/historico")
+    validador.limpar_pasta("../", "Dados_limpos/historico")
         
-    print("\n✓ Dados limpos salvos em: Dados_Limpos/")
-    #     print("\n💡 DICA: Use as pastas 'Dados_Limpos/novos' e 'Dados_Limpos/historico'")
+    print("\n✓ Dados limpos salvos em: Dados_limpos/")
+    #     print("\n💡 DICA: Use as pastas 'Dados_limpos/novos' e 'Dados_limpos/historico'")
     #     print("   como entrada no processador principal para melhor qualidade de dados!")
     
     print("\n" + "="*80)
