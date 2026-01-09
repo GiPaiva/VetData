@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 303
-Total de registros: 58662
-Registros válidos: 53499 (91.2%)
-Registros inválidos: 5163 (8.8%)
-Duplicatas exatas: 6874
+Total de arquivos: 305
+Total de registros: 59073
+Registros válidos: 53872 (91.2%)
+Registros inválidos: 5201 (8.8%)
+Duplicatas exatas: 6920
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard                9908 registros
-  Simparic               5867 registros
-  Bravecto               5523 registros
-  Revolution             5153 registros
-  Drontal                4618 registros
-  Vermivet               3867 registros
-  Advocate               3466 registros
-  Frontline              3144 registros
-  Maxicam                2954 registros
-  Baytril                1579 registros
-  Milbemax               1448 registros
-  Onsior                 1217 registros
-  Zenrelia               1154 registros
-  Carproflan              915 registros
-  Previcox                786 registros
-  Rimadyl                 713 registros
-  Apoquel                 706 registros
-  Synulox                 481 registros
+  Nexgard                9972 registros
+  Simparic               5901 registros
+  Bravecto               5562 registros
+  Revolution             5191 registros
+  Drontal                4649 registros
+  Vermivet               3900 registros
+  Advocate               3487 registros
+  Frontline              3165 registros
+  Maxicam                2979 registros
+  Baytril                1587 registros
+  Milbemax               1464 registros
+  Onsior                 1225 registros
+  Zenrelia               1162 registros
+  Carproflan              924 registros
+  Previcox                792 registros
+  Rimadyl                 718 registros
+  Apoquel                 710 registros
+  Synulox                 484 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1435,6 +1435,19 @@ petz_20251009_201457.xlsx
      - Linha 65: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 66: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 47
+
+petlove_20260109_201516.xlsx
+  Total: 244
+  Válidos: 206
+  Inválidos: 38
+  Duplicatas: 30
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 17: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 18: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 19: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
+     - Linha 20: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. M (Simparic)
+     ... e mais 33
 
 petlove_20251228_201458.xlsx
   Total: 190
@@ -2890,6 +2903,12 @@ petlove_20251101_201206.xlsx
      - Linha 15: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 90: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 146: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+cobasi_20260109_201353.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 16
 
 petlove_20251207_201248.xlsx
   Total: 192
