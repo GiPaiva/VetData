@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 311
-Total de registros: 60323
-Registros válidos: 54949 (91.1%)
-Registros inválidos: 5374 (8.9%)
-Duplicatas exatas: 7039
+Total de arquivos: 314
+Total de registros: 60945
+Registros válidos: 55487 (91.0%)
+Registros inválidos: 5458 (9.0%)
+Duplicatas exatas: 7099
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               10172 registros
-  Simparic               5993 registros
-  Bravecto               5672 registros
-  Revolution             5303 registros
-  Drontal                4747 registros
-  Vermivet               3976 registros
-  Advocate               3553 registros
-  Frontline              3229 registros
-  Maxicam                3036 registros
-  Baytril                1620 registros
-  Milbemax               1504 registros
-  Onsior                 1250 registros
-  Zenrelia               1186 registros
-  Carproflan              948 registros
-  Previcox                808 registros
-  Rimadyl                 734 registros
-  Apoquel                 724 registros
-  Synulox                 494 registros
+  Nexgard               10272 registros
+  Simparic               6039 registros
+  Bravecto               5727 registros
+  Revolution             5359 registros
+  Drontal                4796 registros
+  Vermivet               4014 registros
+  Advocate               3586 registros
+  Frontline              3261 registros
+  Maxicam                3065 registros
+  Baytril                1636 registros
+  Milbemax               1524 registros
+  Onsior                 1262 registros
+  Zenrelia               1198 registros
+  Carproflan              960 registros
+  Previcox                816 registros
+  Rimadyl                 742 registros
+  Apoquel                 731 registros
+  Synulox                 499 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -364,6 +364,19 @@ petlove_20251225_201405.xlsx
      - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petz_20260112_201622.xlsx
+  Total: 211
+  Válidos: 165
+  Inválidos: 46
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 31: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     ... e mais 41
 
 petz_20251219_201525.xlsx
   Total: 211
@@ -1243,6 +1256,19 @@ petlove_20260103_201306.xlsx
      - Linha 105: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 162: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
+petlove_20260112_201455.xlsx
+  Total: 244
+  Válidos: 206
+  Inválidos: 38
+  Duplicatas: 30
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 14: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 17: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 18: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. M (Simparic)
+     - Linha 19: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 20: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 33
+
 cobasi_20251228_201243.xlsx
   Total: 166
   Válidos: 166
@@ -1976,6 +2002,12 @@ petlove_20251005_201241.xlsx
   Válidos: 56
   Inválidos: 0
   Duplicatas: 0
+
+cobasi_20260112_201331.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 16
 
 petlove_20251120_201417.xlsx
   Total: 186
