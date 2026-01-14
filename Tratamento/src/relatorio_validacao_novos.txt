@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 317
-Total de registros: 61566
-Registros válidos: 56022 (91.0%)
-Registros inválidos: 5544 (9.0%)
-Duplicatas exatas: 7159
+Total de arquivos: 320
+Total de registros: 62187
+Registros válidos: 56556 (90.9%)
+Registros inválidos: 5631 (9.1%)
+Duplicatas exatas: 7220
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               10372 registros
-  Simparic               6085 registros
-  Bravecto               5782 registros
-  Revolution             5415 registros
-  Drontal                4842 registros
-  Vermivet               4052 registros
-  Advocate               3619 registros
-  Frontline              3293 registros
-  Maxicam                3094 registros
-  Baytril                1652 registros
-  Milbemax               1544 registros
-  Onsior                 1274 registros
-  Zenrelia               1210 registros
-  Carproflan              972 registros
-  Previcox                824 registros
-  Rimadyl                 750 registros
-  Apoquel                 738 registros
-  Synulox                 504 registros
+  Nexgard               10472 registros
+  Simparic               6132 registros
+  Bravecto               5837 registros
+  Revolution             5471 registros
+  Drontal                4887 registros
+  Vermivet               4090 registros
+  Advocate               3652 registros
+  Frontline              3325 registros
+  Maxicam                3121 registros
+  Baytril                1668 registros
+  Milbemax               1564 registros
+  Onsior                 1287 registros
+  Zenrelia               1222 registros
+  Carproflan              984 registros
+  Previcox                832 registros
+  Rimadyl                 758 registros
+  Apoquel                 745 registros
+  Synulox                 509 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -669,6 +669,12 @@ cobasi_20251119_201127.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+cobasi_20260114_201127.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 17
+
 petlove_20251129_201525.xlsx
   Total: 192
   Válidos: 188
@@ -976,6 +982,19 @@ petlove_20251208_201406.xlsx
      - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
+petlove_20260114_201249.xlsx
+  Total: 244
+  Válidos: 205
+  Inválidos: 39
+  Duplicatas: 30
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 13: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 17: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. M (Simparic)
+     - Linha 18: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 19: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
+     - Linha 20: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 34
+
 cobasi_20251201_201135.xlsx
   Total: 167
   Válidos: 167
@@ -1005,6 +1024,19 @@ petz_20251010_201427.xlsx
      - Linha 29: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 47
+
+petz_20260114_201413.xlsx
+  Total: 210
+  Válidos: 162
+  Inválidos: 48
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 31: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     ... e mais 43
 
 cobasi_20251108_201245.xlsx
   Total: 137
