@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 336
-Total de registros: 65489
-Registros válidos: 59437 (90.8%)
-Registros inválidos: 6052 (9.2%)
-Duplicatas exatas: 7557
+Total de arquivos: 339
+Total de registros: 66111
+Registros válidos: 59972 (90.7%)
+Registros inválidos: 6139 (9.3%)
+Duplicatas exatas: 7618
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               11000 registros
-  Simparic               6390 registros
-  Bravecto               6135 registros
-  Revolution             5771 registros
-  Drontal                5129 registros
-  Vermivet               4308 registros
-  Advocate               3826 registros
-  Frontline              3495 registros
-  Maxicam                3280 registros
-  Baytril                1748 registros
-  Milbemax               1676 registros
-  Onsior                 1351 registros
-  Zenrelia               1286 registros
-  Carproflan             1050 registros
-  Previcox                876 registros
-  Rimadyl                 800 registros
-  Apoquel                 781 registros
-  Synulox                 535 registros
+  Nexgard               11100 registros
+  Simparic               6437 registros
+  Bravecto               6190 registros
+  Revolution             5827 registros
+  Drontal                5175 registros
+  Vermivet               4346 registros
+  Advocate               3859 registros
+  Frontline              3527 registros
+  Maxicam                3308 registros
+  Baytril                1764 registros
+  Milbemax               1696 registros
+  Onsior                 1363 registros
+  Zenrelia               1298 registros
+  Carproflan             1062 registros
+  Previcox                884 registros
+  Rimadyl                 808 registros
+  Apoquel                 788 registros
+  Synulox                 540 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -563,6 +563,19 @@ petlove_20251114_201440.xlsx
      - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 105: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 161: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20260121_202059.xlsx
+  Total: 244
+  Válidos: 206
+  Inválidos: 38
+  Duplicatas: 32
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 17: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 18: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. M (Simparic)
+     - Linha 20: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 21: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 33
 
 petz_20251015_201511.xlsx
   Total: 213
@@ -2596,6 +2609,19 @@ petz_20251115_201455.xlsx
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 43
 
+petz_20260121_202222.xlsx
+  Total: 211
+  Válidos: 162
+  Inválidos: 49
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     ... e mais 44
+
 petlove_20251104_201433.xlsx
   Total: 189
   Válidos: 186
@@ -3114,6 +3140,12 @@ cobasi_20251117_201246.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 14
+
+cobasi_20260121_201940.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 15
 
 petz_20251031_201537.xlsx
   Total: 209
