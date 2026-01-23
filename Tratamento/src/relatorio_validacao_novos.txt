@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 342
-Total de registros: 66735
-Registros válidos: 60508 (90.7%)
-Registros inválidos: 6227 (9.3%)
-Duplicatas exatas: 7680
+Total de arquivos: 345
+Total de registros: 67359
+Registros válidos: 61044 (90.6%)
+Registros inválidos: 6315 (9.4%)
+Duplicatas exatas: 7739
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               11200 registros
-  Simparic               6484 registros
-  Bravecto               6245 registros
-  Revolution             5883 registros
-  Drontal                5220 registros
-  Vermivet               4384 registros
-  Advocate               3894 registros
-  Frontline              3559 registros
-  Maxicam                3336 registros
-  Baytril                1780 registros
-  Milbemax               1716 registros
-  Onsior                 1375 registros
-  Zenrelia               1310 registros
-  Carproflan             1074 registros
-  Previcox                892 registros
-  Rimadyl                 816 registros
-  Apoquel                 795 registros
-  Synulox                 545 registros
+  Nexgard               11300 registros
+  Simparic               6531 registros
+  Bravecto               6300 registros
+  Revolution             5939 registros
+  Drontal                5265 registros
+  Vermivet               4422 registros
+  Advocate               3929 registros
+  Frontline              3591 registros
+  Maxicam                3364 registros
+  Baytril                1796 registros
+  Milbemax               1736 registros
+  Onsior                 1387 registros
+  Zenrelia               1322 registros
+  Carproflan             1086 registros
+  Previcox                900 registros
+  Rimadyl                 824 registros
+  Apoquel                 802 registros
+  Synulox                 550 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1322,6 +1322,12 @@ cobasi_20251030_201204.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+cobasi_20260123_201353.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 15
+
 petlove_20251127_201202.xlsx
   Total: 186
   Válidos: 182
@@ -2402,6 +2408,19 @@ cobasi_20251127_201050.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+petz_20260123_201640.xlsx
+  Total: 211
+  Válidos: 162
+  Inválidos: 49
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     ... e mais 44
+
 petz_20251222_201531.xlsx
   Total: 212
   Válidos: 164
@@ -3346,6 +3365,19 @@ petlove_20251108_201403.xlsx
      - Linha 29: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 104: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 160: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20260123_201520.xlsx
+  Total: 246
+  Válidos: 207
+  Inválidos: 39
+  Duplicatas: 30
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Brinquedo Pelúcia Kong Zazzle Laranja para Cachorros - Tam. Único (Simparic)
+     - Linha 17: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. P (Simparic)
+     - Linha 18: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 19: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. M (Simparic)
+     - Linha 20: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 34
 
 petz_20251111_201516.xlsx
   Total: 210
