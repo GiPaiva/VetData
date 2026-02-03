@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 371
-Total de registros: 72743
-Registros válidos: 65702 (90.3%)
-Registros inválidos: 7041 (9.7%)
-Duplicatas exatas: 8309
+Total de arquivos: 374
+Total de registros: 73328
+Registros válidos: 66224 (90.3%)
+Registros inválidos: 7104 (9.7%)
+Duplicatas exatas: 8368
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               12152 registros
-  Simparic               6930 registros
-  Bravecto               6779 registros
-  Revolution             6425 registros
-  Drontal                5701 registros
-  Vermivet               4729 registros
-  Advocate               4230 registros
-  Frontline              3868 registros
-  Maxicam                3609 registros
-  Baytril                1932 registros
-  Milbemax               1923 registros
-  Onsior                 1493 registros
-  Zenrelia               1422 registros
-  Carproflan             1191 registros
-  Previcox                970 registros
-  Rimadyl                 893 registros
-  Apoquel                 862 registros
-  Synulox                 593 registros
+  Nexgard               12250 registros
+  Simparic               6962 registros
+  Bravecto               6834 registros
+  Revolution             6481 registros
+  Drontal                5754 registros
+  Vermivet               4762 registros
+  Advocate               4264 registros
+  Frontline              3900 registros
+  Maxicam                3637 registros
+  Baytril                1948 registros
+  Milbemax               1945 registros
+  Onsior                 1505 registros
+  Zenrelia               1434 registros
+  Carproflan             1202 registros
+  Previcox                978 registros
+  Rimadyl                 901 registros
+  Apoquel                 869 registros
+  Synulox                 598 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -198,6 +198,19 @@ petz_20260119_201614.xlsx
      - Linha 35: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      ... e mais 42
+
+petlove_20260203_202514.xlsx
+  Total: 209
+  Válidos: 192
+  Inválidos: 17
+  Duplicatas: 29
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 16: Casa Pet Jet Dog House Evolution Black - N°3 (Revolution)
+     - Linha 79: Brinquedo Mordedor Jambo Avocatinip para Gatos - Tam. Único (Advocate)
+     - Linha 96: Alça de mão para Arnês Suporte Frontal e Pélvico Help Em' Up - Tamanho Único (Drontal)
+     - Linha 97: Alças de Ombro para Arnês Suporte Frontal e Pélvico Help Em' Up 2em1 - Tam GG (Drontal)
+     ... e mais 12
 
 cobasi_20251002_170450.xlsx
   Total: 161
@@ -609,6 +622,12 @@ petlove_20260121_202059.xlsx
      ... e mais 33
 
 cobasi_20260122_201444.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 16
+
+cobasi_20260203_202355.xlsx
   Total: 167
   Válidos: 167
   Inválidos: 0
@@ -3293,6 +3312,19 @@ petz_20251113_201600.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 42
+
+petz_20260203_202641.xlsx
+  Total: 209
+  Válidos: 163
+  Inválidos: 46
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 41
 
 cobasi_20251028_201300.xlsx
   Total: 167
