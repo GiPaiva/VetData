@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 377
-Total de registros: 73951
-Registros válidos: 66763 (90.3%)
-Registros inválidos: 7188 (9.7%)
-Duplicatas exatas: 8434
+Total de arquivos: 380
+Total de registros: 74543
+Registros válidos: 67290 (90.3%)
+Registros inválidos: 7253 (9.7%)
+Duplicatas exatas: 8491
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               12348 registros
-  Simparic               7009 registros
-  Bravecto               6889 registros
-  Revolution             6537 registros
-  Drontal                5807 registros
-  Vermivet               4795 registros
-  Advocate               4299 registros
-  Frontline              3932 registros
-  Maxicam                3665 registros
-  Milbemax               1967 registros
-  Baytril                1964 registros
-  Onsior                 1517 registros
-  Zenrelia               1446 registros
-  Carproflan             1214 registros
-  Previcox                986 registros
-  Rimadyl                 909 registros
-  Apoquel                 876 registros
-  Synulox                 603 registros
+  Nexgard               12446 registros
+  Simparic               7041 registros
+  Bravecto               6944 registros
+  Revolution             6596 registros
+  Drontal                5860 registros
+  Vermivet               4828 registros
+  Advocate               4334 registros
+  Frontline              3964 registros
+  Maxicam                3693 registros
+  Milbemax               1989 registros
+  Baytril                1980 registros
+  Onsior                 1529 registros
+  Zenrelia               1458 registros
+  Carproflan             1226 registros
+  Previcox                994 registros
+  Rimadyl                 917 registros
+  Apoquel                 883 registros
+  Synulox                 608 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -826,6 +826,12 @@ petz_20251014_201619.xlsx
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 46
 
+cobasi_20260205_202106.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 14
+
 petz_20260107_201615.xlsx
   Total: 213
   Válidos: 167
@@ -941,6 +947,19 @@ petlove_20251009_201329.xlsx
   ⚠️  Produtos inválidos encontrados:
      - Linha 40: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 227: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petz_20260205_202353.xlsx
+  Total: 211
+  Válidos: 163
+  Inválidos: 48
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 43
 
 petlove_20260117_201313.xlsx
   Total: 244
@@ -3749,5 +3768,18 @@ petz_20251228_201627.xlsx
      - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 36: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 44
+
+petlove_20260205_202228.xlsx
+  Total: 214
+  Válidos: 197
+  Inválidos: 17
+  Duplicatas: 29
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 15: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 16: Casa Pet Jet Dog House Evolution Black - N°2 (Revolution)
+     - Linha 83: Brinquedo Mordedor Jambo Avocatinip para Gatos - Tam. Único (Advocate)
+     - Linha 100: Alça de mão para Arnês Suporte Frontal e Pélvico Help Em' Up - Tamanho Único (Drontal)
+     - Linha 101: Alças de Ombro para Arnês Suporte Frontal e Pélvico Help Em' Up 2em1 - Tam GG (Drontal)
+     ... e mais 12
 
 ================================================================================
