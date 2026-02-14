@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 403
-Total de registros: 79263
-Registros válidos: 71409 (90.1%)
-Registros inválidos: 7854 (9.9%)
-Duplicatas exatas: 8968
+Total de arquivos: 406
+Total de registros: 79892
+Registros válidos: 71958 (90.1%)
+Registros inválidos: 7934 (9.9%)
+Duplicatas exatas: 9034
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               13178 registros
-  Simparic               7389 registros
-  Bravecto               7376 registros
-  Revolution             7034 registros
-  Drontal                6259 registros
-  Vermivet               5087 registros
-  Advocate               4601 registros
-  Frontline              4209 registros
-  Maxicam                3913 registros
-  Milbemax               2161 registros
-  Baytril                2100 registros
-  Onsior                 1621 registros
-  Zenrelia               1550 registros
-  Carproflan             1315 registros
-  Previcox               1056 registros
-  Rimadyl                 978 registros
-  Apoquel                 936 registros
-  Synulox                 646 registros
+  Nexgard               13276 registros
+  Simparic               7446 registros
+  Bravecto               7431 registros
+  Revolution             7093 registros
+  Drontal                6310 registros
+  Vermivet               5120 registros
+  Advocate               4636 registros
+  Frontline              4241 registros
+  Maxicam                3941 registros
+  Milbemax               2182 registros
+  Baytril                2116 registros
+  Onsior                 1633 registros
+  Zenrelia               1562 registros
+  Carproflan             1327 registros
+  Previcox               1064 registros
+  Rimadyl                 986 registros
+  Apoquel                 943 registros
+  Synulox                 651 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1069,6 +1069,19 @@ petz_20251123_201444.xlsx
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 39
 
+petlove_20260214_201501.xlsx
+  Total: 250
+  Válidos: 221
+  Inválidos: 29
+  Duplicatas: 36
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 27: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. P (Simparic)
+     - Linha 28: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 29: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
+     - Linha 30: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     - Linha 31: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 24
+
 petz_20251130_201455.xlsx
   Total: 206
   Válidos: 161
@@ -1100,6 +1113,12 @@ petlove_20260211_202925.xlsx
      - Linha 16: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      - Linha 17: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
      ... e mais 30
+
+cobasi_20260214_201339.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 16
 
 petlove_20260106_201411.xlsx
   Total: 244
@@ -1477,6 +1496,19 @@ petlove_20260123_201520.xlsx
      - Linha 19: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. M (Simparic)
      - Linha 20: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      ... e mais 34
+
+petz_20260214_201633.xlsx
+  Total: 212
+  Válidos: 161
+  Inválidos: 51
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 31: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 46
 
 cobasi_20251219_201228.xlsx
   Total: 167
