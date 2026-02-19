@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 418
-Total de registros: 82344
-Registros válidos: 74108 (90.0%)
-Registros inválidos: 8236 (10.0%)
-Duplicatas exatas: 9282
+Total de arquivos: 421
+Total de registros: 82935
+Registros válidos: 74632 (90.0%)
+Registros inválidos: 8303 (10.0%)
+Duplicatas exatas: 9341
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               13668 registros
-  Simparic               7652 registros
-  Bravecto               7651 registros
-  Revolution             7312 registros
-  Drontal                6509 registros
-  Vermivet               5254 registros
-  Advocate               4776 registros
-  Frontline              4369 registros
-  Maxicam                4052 registros
-  Milbemax               2266 registros
-  Baytril                2180 registros
-  Onsior                 1681 registros
-  Zenrelia               1610 registros
-  Carproflan             1373 registros
-  Previcox               1096 registros
-  Rimadyl                1018 registros
-  Apoquel                 971 registros
-  Synulox                 670 registros
+  Nexgard               13766 registros
+  Bravecto               7706 registros
+  Simparic               7684 registros
+  Revolution             7371 registros
+  Drontal                6561 registros
+  Vermivet               5287 registros
+  Advocate               4811 registros
+  Frontline              4401 registros
+  Maxicam                4080 registros
+  Milbemax               2287 registros
+  Baytril                2196 registros
+  Onsior                 1693 registros
+  Zenrelia               1622 registros
+  Carproflan             1384 registros
+  Previcox               1104 registros
+  Rimadyl                1026 registros
+  Apoquel                 978 registros
+  Synulox                 675 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -855,6 +855,19 @@ cobasi_20260119_201307.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 16
+
+petlove_20260219_202250.xlsx
+  Total: 213
+  Válidos: 195
+  Inválidos: 18
+  Duplicatas: 29
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 9: Casa Pet Jet Dog House Evolution Black - N°2 (Revolution)
+     - Linha 16: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 20: Casa Pet Injet Prime Colors Dog House Evolution Azul - Tam. 01 (Revolution)
+     - Linha 84: Brinquedo Mordedor Jambo Avocatinip para Gatos - Tam. Único (Advocate)
+     - Linha 102: Alça de mão para Arnês Suporte Frontal e Pélvico Help Em' Up - Tamanho Único (Drontal)
+     ... e mais 13
 
 petz_20251222_201531.xlsx
   Total: 212
@@ -3327,6 +3340,12 @@ petz_20251104_201559.xlsx
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 43
 
+cobasi_20260219_202116.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 16
+
 petlove_20251121_201338.xlsx
   Total: 187
   Válidos: 183
@@ -3605,6 +3624,19 @@ petlove_20251018_201521.xlsx
   ⚠️  Produtos inválidos encontrados:
      - Linha 51: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 258: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petz_20260219_202417.xlsx
+  Total: 211
+  Válidos: 162
+  Inválidos: 49
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     ... e mais 44
 
 petlove_20260120_204009.xlsx
   Total: 244
