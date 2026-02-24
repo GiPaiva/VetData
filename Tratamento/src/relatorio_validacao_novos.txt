@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 433
-Total de registros: 85437
-Registros válidos: 76826 (89.9%)
-Registros inválidos: 8611 (10.1%)
-Duplicatas exatas: 9610
+Total de arquivos: 436
+Total de registros: 86027
+Registros válidos: 77349 (89.9%)
+Registros inválidos: 8678 (10.1%)
+Duplicatas exatas: 9666
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               14158 registros
-  Bravecto               7926 registros
-  Simparic               7914 registros
-  Revolution             7607 registros
-  Drontal                6769 registros
-  Vermivet               5416 registros
-  Advocate               4951 registros
-  Frontline              4529 registros
-  Maxicam                4192 registros
-  Milbemax               2371 registros
-  Baytril                2260 registros
-  Onsior                 1741 registros
-  Zenrelia               1670 registros
-  Carproflan             1427 registros
-  Previcox               1136 registros
-  Rimadyl                1058 registros
-  Apoquel                1006 registros
-  Synulox                 695 registros
+  Nexgard               14256 registros
+  Bravecto               7981 registros
+  Simparic               7946 registros
+  Revolution             7665 registros
+  Drontal                6820 registros
+  Vermivet               5449 registros
+  Advocate               4986 registros
+  Frontline              4561 registros
+  Maxicam                4220 registros
+  Milbemax               2392 registros
+  Baytril                2276 registros
+  Onsior                 1753 registros
+  Zenrelia               1682 registros
+  Carproflan             1439 registros
+  Previcox               1144 registros
+  Rimadyl                1066 registros
+  Apoquel                1013 registros
+  Synulox                 700 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1202,6 +1202,19 @@ petz_20251119_201629.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 42
+
+petlove_20260224_202423.xlsx
+  Total: 212
+  Válidos: 194
+  Inválidos: 18
+  Duplicatas: 26
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 6: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 12: Casa Pet Jet Dog House Evolution Black - N°3 (Revolution)
+     - Linha 82: Brinquedo Mordedor Jambo Avocatinip para Gatos - Tam. Único (Advocate)
+     - Linha 100: Alça de mão para Arnês Suporte Frontal e Pélvico Help Em' Up - Tamanho Único (Drontal)
+     - Linha 101: Alças de Ombro para Arnês Suporte Frontal e Pélvico Help Em' Up 2em1 - Tam GG (Drontal)
+     ... e mais 13
 
 cobasi_20251009_201150.xlsx
   Total: 162
@@ -2632,6 +2645,19 @@ petlove_20251212_201341.xlsx
      - Linha 109: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 165: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
+petz_20260224_202547.xlsx
+  Total: 211
+  Válidos: 162
+  Inválidos: 49
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
+     ... e mais 44
+
 cobasi_20260201_201356.xlsx
   Total: 155
   Válidos: 155
@@ -3813,6 +3839,12 @@ cobasi_20251102_201040.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 17
+
+cobasi_20260224_202304.xlsx
+  Total: 167
+  Válidos: 167
+  Inválidos: 0
+  Duplicatas: 16
 
 cobasi_20260204_202148.xlsx
   Total: 167
