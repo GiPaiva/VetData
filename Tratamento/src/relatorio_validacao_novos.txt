@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 439
-Total de registros: 86651
-Registros válidos: 77899 (89.9%)
-Registros inválidos: 8752 (10.1%)
-Duplicatas exatas: 9730
+Total de arquivos: 441
+Total de registros: 87072
+Registros válidos: 78282 (89.9%)
+Registros inválidos: 8790 (10.1%)
+Duplicatas exatas: 9767
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               14354 registros
-  Bravecto               8036 registros
-  Simparic               8004 registros
-  Revolution             7724 registros
-  Drontal                6875 registros
-  Vermivet               5482 registros
-  Advocate               5021 registros
-  Frontline              4593 registros
-  Maxicam                4248 registros
-  Milbemax               2413 registros
-  Baytril                2288 registros
-  Onsior                 1765 registros
-  Zenrelia               1694 registros
-  Carproflan             1451 registros
-  Previcox               1152 registros
-  Rimadyl                1074 registros
-  Apoquel                1020 registros
-  Synulox                 705 registros
+  Nexgard               14410 registros
+  Bravecto               8075 registros
+  Simparic               8050 registros
+  Revolution             7765 registros
+  Drontal                6911 registros
+  Vermivet               5525 registros
+  Advocate               5044 registros
+  Frontline              4619 registros
+  Maxicam                4254 registros
+  Milbemax               2430 registros
+  Baytril                2296 registros
+  Onsior                 1773 registros
+  Zenrelia               1702 registros
+  Carproflan             1459 registros
+  Previcox               1158 registros
+  Rimadyl                1079 registros
+  Apoquel                1024 registros
+  Synulox                 708 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -2521,6 +2521,19 @@ cobasi_20251210_201314.xlsx
   Inválidos: 0
   Duplicatas: 17
 
+petlove_20260226_202613.xlsx
+  Total: 249
+  Válidos: 220
+  Inválidos: 29
+  Duplicatas: 37
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 28: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. P (Simparic)
+     - Linha 29: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 30: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
+     - Linha 31: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 32: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. M (Simparic)
+     ... e mais 24
+
 cobasi_20251029_201230.xlsx
   Total: 167
   Válidos: 167
@@ -2538,6 +2551,19 @@ cobasi_20251011_201032.xlsx
   Válidos: 161
   Inválidos: 0
   Duplicatas: 14
+
+cobasi_20260226_202451.xlsx
+  Total: 172
+  Válidos: 163
+  Inválidos: 9
+  Duplicatas: 0
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 36: Petisco Joy Orelha Bovina Natural Desidratada (NexGard)
+     - Linha 45: Petisco Orelha Bovina para Cães LL Pet (NexGard)
+     - Linha 47: Petisco Orelha Suína Natural Farm (NexGard)
+     - Linha 49: Petisco Orelha Bovina para Cães LL Pet (NexGard)
+     - Linha 97: Coleira Antipulgas Seresto Cães Acima de 8kg - 8 meses de proteção (Frontline)
+     ... e mais 4
 
 petlove_20251105_201423.xlsx
   Total: 183
