@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 464
-Total de registros: 91674
-Registros válidos: 82361 (89.8%)
-Registros inválidos: 9313 (10.2%)
-Duplicatas exatas: 10273
+Total de arquivos: 467
+Total de registros: 92261
+Registros válidos: 82886 (89.8%)
+Registros inválidos: 9375 (10.2%)
+Duplicatas exatas: 10340
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               15148 registros
-  Bravecto               8499 registros
-  Simparic               8454 registros
-  Revolution             8209 registros
-  Drontal                7374 registros
-  Vermivet               5781 registros
-  Advocate               5296 registros
-  Frontline              4872 registros
-  Maxicam                4330 registros
-  Milbemax               2594 registros
-  Baytril                2412 registros
-  Onsior                 1865 registros
-  Zenrelia               1794 registros
-  Carproflan             1550 registros
-  Previcox               1220 registros
-  Rimadyl                1140 registros
-  Apoquel                1077 registros
-  Synulox                 746 registros
+  Nexgard               15246 registros
+  Bravecto               8552 registros
+  Simparic               8506 registros
+  Revolution             8264 registros
+  Drontal                7435 registros
+  Vermivet               5813 registros
+  Advocate               5327 registros
+  Frontline              4905 registros
+  Maxicam                4340 registros
+  Milbemax               2615 registros
+  Baytril                2427 registros
+  Onsior                 1877 registros
+  Zenrelia               1806 registros
+  Carproflan             1562 registros
+  Previcox               1228 registros
+  Rimadyl                1148 registros
+  Apoquel                1084 registros
+  Synulox                 751 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1869,6 +1869,19 @@ petlove_20260213_202620.xlsx
      - Linha 75: Peitoral H Pop Bordo Caqui - Tam. P (Drontal)
      ... e mais 12
 
+petlove_20260307_201515.xlsx
+  Total: 228
+  Válidos: 206
+  Inválidos: 22
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 13: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. P (Simparic)
+     - Linha 16: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 17: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 18: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
+     - Linha 26: Coleira We Are Family Viva Lili Vermelha para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 17
+
 cobasi_20251121_201211.xlsx
   Total: 166
   Válidos: 166
@@ -1988,6 +2001,12 @@ cobasi_20251205_201242.xlsx
   Válidos: 166
   Inválidos: 0
   Duplicatas: 15
+
+cobasi_20260307_201350.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 petlove_20251116_201253.xlsx
   Total: 184
@@ -3962,6 +3981,19 @@ petlove_20251020_202247.xlsx
      - Linha 29: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 124: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 180: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petz_20260307_201638.xlsx
+  Total: 210
+  Válidos: 170
+  Inválidos: 40
+  Duplicatas: 15
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 123: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 35
 
 petz_20251108_201527.xlsx
   Total: 209
