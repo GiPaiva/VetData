@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 467
-Total de registros: 92261
-Registros válidos: 82886 (89.8%)
-Registros inválidos: 9375 (10.2%)
-Duplicatas exatas: 10340
+Total de arquivos: 470
+Total de registros: 92845
+Registros válidos: 83406 (89.8%)
+Registros inválidos: 9439 (10.2%)
+Duplicatas exatas: 10404
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               15246 registros
-  Bravecto               8552 registros
-  Simparic               8506 registros
-  Revolution             8264 registros
-  Drontal                7435 registros
-  Vermivet               5813 registros
-  Advocate               5327 registros
-  Frontline              4905 registros
-  Maxicam                4340 registros
-  Milbemax               2615 registros
-  Baytril                2427 registros
-  Onsior                 1877 registros
-  Zenrelia               1806 registros
-  Carproflan             1562 registros
-  Previcox               1228 registros
-  Rimadyl                1148 registros
-  Apoquel                1084 registros
-  Synulox                 751 registros
+  Nexgard               15344 registros
+  Bravecto               8605 registros
+  Simparic               8558 registros
+  Revolution             8315 registros
+  Drontal                7495 registros
+  Vermivet               5846 registros
+  Advocate               5358 registros
+  Frontline              4938 registros
+  Maxicam                4350 registros
+  Milbemax               2635 registros
+  Baytril                2442 registros
+  Onsior                 1889 registros
+  Zenrelia               1818 registros
+  Carproflan             1574 registros
+  Previcox               1236 registros
+  Rimadyl                1156 registros
+  Apoquel                1091 registros
+  Synulox                 756 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -268,6 +268,19 @@ petz_20251208_201531.xlsx
      - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 42
+
+petz_20260308_201639.xlsx
+  Total: 212
+  Válidos: 172
+  Inválidos: 40
+  Duplicatas: 15
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 123: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 35
 
 petz_20251219_201525.xlsx
   Total: 211
@@ -1881,6 +1894,19 @@ petlove_20260307_201515.xlsx
      - Linha 18: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      - Linha 26: Coleira We Are Family Viva Lili Vermelha para Cães e Gatos - Tam. G (Simparic)
      ... e mais 17
+
+petlove_20260308_201520.xlsx
+  Total: 223
+  Válidos: 199
+  Inválidos: 24
+  Duplicatas: 35
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 12: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. P (Simparic)
+     - Linha 16: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 17: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 18: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
+     - Linha 26: Coleira We Are Family Viva Lili Vermelha para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 19
 
 cobasi_20251121_201211.xlsx
   Total: 166
@@ -4007,6 +4033,12 @@ petz_20251108_201527.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 43
+
+cobasi_20260308_201359.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 petz_20251205_201603.xlsx
   Total: 212
