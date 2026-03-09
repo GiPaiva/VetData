@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 470
-Total de registros: 92845
-Registros válidos: 83406 (89.8%)
-Registros inválidos: 9439 (10.2%)
-Duplicatas exatas: 10404
+Total de arquivos: 473
+Total de registros: 93428
+Registros válidos: 83924 (89.8%)
+Registros inválidos: 9504 (10.2%)
+Duplicatas exatas: 10468
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               15344 registros
-  Bravecto               8605 registros
-  Simparic               8558 registros
-  Revolution             8315 registros
-  Drontal                7495 registros
-  Vermivet               5846 registros
-  Advocate               5358 registros
-  Frontline              4938 registros
-  Maxicam                4350 registros
-  Milbemax               2635 registros
-  Baytril                2442 registros
-  Onsior                 1889 registros
-  Zenrelia               1818 registros
-  Carproflan             1574 registros
-  Previcox               1236 registros
-  Rimadyl                1156 registros
-  Apoquel                1091 registros
-  Synulox                 756 registros
+  Nexgard               15442 registros
+  Bravecto               8658 registros
+  Simparic               8608 registros
+  Revolution             8368 registros
+  Drontal                7557 registros
+  Vermivet               5878 registros
+  Advocate               5390 registros
+  Frontline              4971 registros
+  Maxicam                4360 registros
+  Milbemax               2653 registros
+  Baytril                2457 registros
+  Onsior                 1901 registros
+  Zenrelia               1829 registros
+  Carproflan             1585 registros
+  Previcox               1244 registros
+  Rimadyl                1164 registros
+  Apoquel                1098 registros
+  Synulox                 761 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -331,6 +331,19 @@ cobasi_20251208_201249.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+petlove_20260309_202246.xlsx
+  Total: 222
+  Válidos: 197
+  Inválidos: 25
+  Duplicatas: 36
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 14: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 15: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 16: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. P (Simparic)
+     - Linha 17: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
+     - Linha 25: Coleira We Are Family Viva Lili Vermelha para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 20
+
 petz_20251005_015655.xlsx
   Total: 214
   Válidos: 162
@@ -356,6 +369,19 @@ petlove_20260215_201532.xlsx
      - Linha 31: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
      - Linha 32: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      ... e mais 25
+
+petz_20260309_202414.xlsx
+  Total: 212
+  Válidos: 172
+  Inválidos: 40
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 123: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 35
 
 petz_20251024_201510.xlsx
   Total: 211
@@ -3981,6 +4007,12 @@ petlove_20260129_201938.xlsx
      - Linha 20: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      - Linha 21: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
      ... e mais 33
+
+cobasi_20260309_202121.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20251213_201118.xlsx
   Total: 167
