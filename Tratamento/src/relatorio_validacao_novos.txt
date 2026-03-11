@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 476
-Total de registros: 94003
-Registros válidos: 84443 (89.8%)
-Registros inválidos: 9560 (10.2%)
-Duplicatas exatas: 10532
+Total de arquivos: 479
+Total de registros: 94586
+Registros válidos: 84971 (89.8%)
+Registros inválidos: 9615 (10.2%)
+Duplicatas exatas: 10595
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               15540 registros
-  Bravecto               8711 registros
-  Simparic               8656 registros
-  Revolution             8419 registros
-  Drontal                7622 registros
-  Vermivet               5910 registros
-  Advocate               5422 registros
-  Frontline              5004 registros
-  Maxicam                4370 registros
-  Milbemax               2673 registros
-  Baytril                2471 registros
-  Onsior                 1913 registros
-  Zenrelia               1840 registros
-  Carproflan             1597 registros
-  Previcox               1252 registros
-  Rimadyl                1172 registros
-  Apoquel                1105 registros
-  Synulox                 766 registros
+  Nexgard               15638 registros
+  Bravecto               8770 registros
+  Simparic               8706 registros
+  Revolution             8471 registros
+  Drontal                7686 registros
+  Vermivet               5943 registros
+  Advocate               5453 registros
+  Frontline              5037 registros
+  Maxicam                4380 registros
+  Milbemax               2694 registros
+  Baytril                2485 registros
+  Onsior                 1925 registros
+  Zenrelia               1852 registros
+  Carproflan             1608 registros
+  Previcox               1260 registros
+  Rimadyl                1180 registros
+  Apoquel                1112 registros
+  Synulox                 771 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -637,6 +637,12 @@ petz_20251019_201404.xlsx
      - Linha 29: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 46
+
+cobasi_20260311_202259.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 petz_20260209_203303.xlsx
   Total: 210
@@ -2907,6 +2913,19 @@ petlove_20251011_201203.xlsx
      - Linha 40: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 226: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
+petz_20260311_202602.xlsx
+  Total: 212
+  Válidos: 172
+  Inválidos: 40
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 123: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 35
+
 petlove_20251203_201442.xlsx
   Total: 208
   Válidos: 204
@@ -3138,6 +3157,19 @@ petlove_20251014_201331.xlsx
   ⚠️  Produtos inválidos encontrados:
      - Linha 51: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 258: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petlove_20260311_202426.xlsx
+  Total: 222
+  Válidos: 207
+  Inválidos: 15
+  Duplicatas: 35
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 17: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 31: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 32: Casa Pet Jet Dog House Evolution Black - N°2 (Revolution)
+     - Linha 98: Brinquedo Mordedor Jambo Avocatinip para Gatos - Tam. Único (Advocate)
+     - Linha 111: Alça de mão para Arnês Suporte Frontal e Pélvico Help Em' Up - Tamanho Único (Drontal)
+     ... e mais 10
 
 cobasi_20260305_202745.xlsx
   Total: 149
