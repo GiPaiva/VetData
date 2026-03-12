@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 479
-Total de registros: 94586
-Registros válidos: 84971 (89.8%)
-Registros inválidos: 9615 (10.2%)
-Duplicatas exatas: 10595
+Total de arquivos: 482
+Total de registros: 95169
+Registros válidos: 85502 (89.8%)
+Registros inválidos: 9667 (10.2%)
+Duplicatas exatas: 10657
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               15638 registros
-  Bravecto               8770 registros
-  Simparic               8706 registros
-  Revolution             8471 registros
-  Drontal                7686 registros
-  Vermivet               5943 registros
-  Advocate               5453 registros
-  Frontline              5037 registros
-  Maxicam                4380 registros
-  Milbemax               2694 registros
-  Baytril                2485 registros
-  Onsior                 1925 registros
-  Zenrelia               1852 registros
-  Carproflan             1608 registros
-  Previcox               1260 registros
-  Rimadyl                1180 registros
-  Apoquel                1112 registros
-  Synulox                 771 registros
+  Nexgard               15736 registros
+  Bravecto               8830 registros
+  Simparic               8756 registros
+  Revolution             8519 registros
+  Drontal                7750 registros
+  Vermivet               5976 registros
+  Advocate               5484 registros
+  Frontline              5070 registros
+  Maxicam                4390 registros
+  Milbemax               2715 registros
+  Baytril                2499 registros
+  Onsior                 1937 registros
+  Zenrelia               1864 registros
+  Carproflan             1619 registros
+  Previcox               1268 registros
+  Rimadyl                1188 registros
+  Apoquel                1125 registros
+  Synulox                 776 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -249,6 +249,19 @@ petz_20251106_201538.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 41
+
+petz_20260312_202551.xlsx
+  Total: 210
+  Válidos: 172
+  Inválidos: 38
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 123: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 33
 
 cobasi_20260220_201816.xlsx
   Total: 167
@@ -1254,6 +1267,19 @@ cobasi_20260215_201406.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 17
+
+petlove_20260312_202429.xlsx
+  Total: 224
+  Válidos: 210
+  Inválidos: 14
+  Duplicatas: 34
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 28: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 29: Casa Pet Jet Dog House Evolution Black - N°2 (Revolution)
+     - Linha 96: Brinquedo Mordedor Jambo Avocatinip para Gatos - Tam. Único (Advocate)
+     - Linha 111: Alça de mão para Arnês Suporte Frontal e Pélvico Help Em' Up - Tamanho Único (Drontal)
+     - Linha 112: Alças de Ombro para Arnês Suporte Frontal e Pélvico Help Em' Up 2em1 - Tam GG (Drontal)
+     ... e mais 9
 
 petlove_20260214_201501.xlsx
   Total: 250
@@ -2366,6 +2392,12 @@ petz_20260102_201517.xlsx
      - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 36: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 43
+
+cobasi_20260312_202304.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 petlove_20260113_201504.xlsx
   Total: 244
