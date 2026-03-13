@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 482
-Total de registros: 95169
-Registros válidos: 85502 (89.8%)
-Registros inválidos: 9667 (10.2%)
-Duplicatas exatas: 10657
+Total de arquivos: 485
+Total de registros: 95760
+Registros válidos: 86038 (89.8%)
+Registros inválidos: 9722 (10.2%)
+Duplicatas exatas: 10719
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               15736 registros
-  Bravecto               8830 registros
-  Simparic               8756 registros
-  Revolution             8519 registros
-  Drontal                7750 registros
-  Vermivet               5976 registros
-  Advocate               5484 registros
-  Frontline              5070 registros
-  Maxicam                4390 registros
-  Milbemax               2715 registros
-  Baytril                2499 registros
-  Onsior                 1937 registros
-  Zenrelia               1864 registros
-  Carproflan             1619 registros
-  Previcox               1268 registros
-  Rimadyl                1188 registros
-  Apoquel                1125 registros
-  Synulox                 776 registros
+  Nexgard               15832 registros
+  Bravecto               8890 registros
+  Simparic               8807 registros
+  Revolution             8572 registros
+  Drontal                7814 registros
+  Vermivet               6009 registros
+  Advocate               5516 registros
+  Frontline              5103 registros
+  Maxicam                4400 registros
+  Milbemax               2736 registros
+  Baytril                2513 registros
+  Onsior                 1949 registros
+  Zenrelia               1876 registros
+  Carproflan             1630 registros
+  Previcox               1276 registros
+  Rimadyl                1196 registros
+  Apoquel                1138 registros
+  Synulox                 781 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -395,6 +395,19 @@ petz_20260309_202414.xlsx
      - Linha 123: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
      - Linha 125: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
      ... e mais 35
+
+petlove_20260313_202312.xlsx
+  Total: 230
+  Válidos: 216
+  Inválidos: 14
+  Duplicatas: 34
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 16: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. P (Simparic)
+     - Linha 32: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
+     - Linha 99: Brinquedo Mordedor Jambo Avocatinip para Gatos - Tam. Único (Advocate)
+     - Linha 114: Peitoral Antipuxão Future Pet Nasa Prata para Cães - Tam. P (Drontal)
+     - Linha 115: Conjunto Peitoral Antipuxão e Guia Lilás - Tam. M (Drontal)
+     ... e mais 9
 
 petz_20251024_201510.xlsx
   Total: 211
@@ -777,6 +790,19 @@ petz_20260212_202527.xlsx
      - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 46
 
+petz_20260313_202434.xlsx
+  Total: 212
+  Válidos: 171
+  Inválidos: 41
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 36
+
 petlove_20260221_201508.xlsx
   Total: 247
   Válidos: 218
@@ -856,6 +882,12 @@ cobasi_20251225_201245.xlsx
   Válidos: 166
   Inválidos: 0
   Duplicatas: 15
+
+cobasi_20260313_202152.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20260310_202237.xlsx
   Total: 149
