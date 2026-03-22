@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 508
-Total de registros: 100298
-Registros válidos: 90133 (89.9%)
-Registros inválidos: 10165 (10.1%)
-Duplicatas exatas: 11225
+Total de arquivos: 511
+Total de registros: 100893
+Registros válidos: 90665 (89.9%)
+Registros inválidos: 10228 (10.1%)
+Duplicatas exatas: 11293
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               16576 registros
-  Bravecto               9329 registros
-  Simparic               9208 registros
-  Revolution             9003 registros
-  Drontal                8285 registros
-  Vermivet               6261 registros
-  Advocate               5760 registros
-  Frontline              5356 registros
-  Maxicam                4476 registros
-  Milbemax               2899 registros
-  Baytril                2625 registros
-  Onsior                 2041 registros
-  Zenrelia               1968 registros
-  Carproflan             1717 registros
-  Previcox               1338 registros
-  Rimadyl                1257 registros
-  Apoquel                1215 registros
-  Synulox                 819 registros
+  Nexgard               16674 registros
+  Bravecto               9384 registros
+  Simparic               9260 registros
+  Revolution             9062 registros
+  Drontal                8346 registros
+  Vermivet               6293 registros
+  Advocate               5792 registros
+  Frontline              5389 registros
+  Maxicam                4486 registros
+  Milbemax               2920 registros
+  Baytril                2640 registros
+  Onsior                 2053 registros
+  Zenrelia               1980 registros
+  Carproflan             1729 registros
+  Previcox               1346 registros
+  Rimadyl                1265 registros
+  Apoquel                1222 registros
+  Synulox                 824 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -2062,6 +2062,12 @@ cobasi_20251101_201044.xlsx
   Inválidos: 0
   Duplicatas: 17
 
+cobasi_20260322_201447.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
+
 petlove_20260213_202620.xlsx
   Total: 183
   Válidos: 166
@@ -2578,6 +2584,19 @@ petz_20260201_201629.xlsx
      - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      ... e mais 42
+
+petz_20260322_201747.xlsx
+  Total: 207
+  Válidos: 171
+  Inválidos: 36
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 31: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 31
 
 petlove_20251228_201458.xlsx
   Total: 190
@@ -4817,6 +4836,19 @@ petlove_20260302_202456.xlsx
      - Linha 19: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
      - Linha 20: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      ... e mais 29
+
+petlove_20260322_201617.xlsx
+  Total: 239
+  Válidos: 212
+  Inválidos: 27
+  Duplicatas: 40
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 21: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 22: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 23: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. P (Simparic)
+     - Linha 24: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. P (Simparic)
+     - Linha 25: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 22
 
 petz_20251221_201423.xlsx
   Total: 212
