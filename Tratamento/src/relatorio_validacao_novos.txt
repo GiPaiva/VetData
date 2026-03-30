@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 530
-Total de registros: 104648
-Registros válidos: 94048 (89.9%)
-Registros inválidos: 10600 (10.1%)
-Duplicatas exatas: 11734
+Total de arquivos: 533
+Total de registros: 105244
+Registros válidos: 94580 (89.9%)
+Registros inválidos: 10664 (10.1%)
+Duplicatas exatas: 11800
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               17287 registros
-  Bravecto               9737 registros
-  Simparic               9600 registros
-  Revolution             9439 registros
-  Drontal                8722 registros
-  Vermivet               6512 registros
-  Advocate               5992 registros
-  Frontline              5598 registros
-  Maxicam                4548 registros
-  Milbemax               3059 registros
-  Baytril                2729 registros
-  Onsior                 2129 registros
-  Zenrelia               2056 registros
-  Carproflan             1807 registros
-  Previcox               1398 registros
-  Rimadyl                1315 registros
-  Apoquel                1265 registros
-  Synulox                 855 registros
+  Nexgard               17385 registros
+  Bravecto               9792 registros
+  Simparic               9652 registros
+  Revolution             9498 registros
+  Drontal                8782 registros
+  Vermivet               6545 registros
+  Advocate               6024 registros
+  Frontline              5631 registros
+  Maxicam                4558 registros
+  Milbemax               3080 registros
+  Baytril                2744 registros
+  Onsior                 2141 registros
+  Zenrelia               2068 registros
+  Carproflan             1819 registros
+  Previcox               1406 registros
+  Rimadyl                1323 registros
+  Apoquel                1272 registros
+  Synulox                 860 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -279,6 +279,19 @@ cobasi_20251202_201309.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 17
+
+petlove_20260330_203547.xlsx
+  Total: 239
+  Válidos: 212
+  Inválidos: 27
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 21: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 22: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 23: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. P (Simparic)
+     - Linha 25: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 22
 
 cobasi_20251016_201211.xlsx
   Total: 166
@@ -4045,6 +4058,19 @@ petlove_20260118_201345.xlsx
      - Linha 20: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
      ... e mais 34
 
+petz_20260330_203716.xlsx
+  Total: 208
+  Válidos: 171
+  Inválidos: 37
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 31: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 32
+
 petz_20251103_201957.xlsx
   Total: 209
   Válidos: 161
@@ -5143,6 +5169,12 @@ petlove_20251115_201325.xlsx
      - Linha 24: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 105: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 161: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+cobasi_20260330_203423.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20260113_201330.xlsx
   Total: 167
