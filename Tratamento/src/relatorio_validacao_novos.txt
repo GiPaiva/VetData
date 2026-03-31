@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 533
-Total de registros: 105244
-Registros válidos: 94580 (89.9%)
-Registros inválidos: 10664 (10.1%)
-Duplicatas exatas: 11800
+Total de arquivos: 536
+Total de registros: 105840
+Registros válidos: 95112 (89.9%)
+Registros inválidos: 10728 (10.1%)
+Duplicatas exatas: 11864
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               17385 registros
-  Bravecto               9792 registros
-  Simparic               9652 registros
-  Revolution             9498 registros
-  Drontal                8782 registros
-  Vermivet               6545 registros
-  Advocate               6024 registros
-  Frontline              5631 registros
-  Maxicam                4558 registros
-  Milbemax               3080 registros
-  Baytril                2744 registros
-  Onsior                 2141 registros
-  Zenrelia               2068 registros
-  Carproflan             1819 registros
-  Previcox               1406 registros
-  Rimadyl                1323 registros
-  Apoquel                1272 registros
-  Synulox                 860 registros
+  Nexgard               17483 registros
+  Bravecto               9847 registros
+  Simparic               9704 registros
+  Revolution             9557 registros
+  Drontal                8842 registros
+  Vermivet               6579 registros
+  Advocate               6056 registros
+  Frontline              5664 registros
+  Maxicam                4568 registros
+  Milbemax               3100 registros
+  Baytril                2759 registros
+  Onsior                 2153 registros
+  Zenrelia               2080 registros
+  Carproflan             1831 registros
+  Previcox               1414 registros
+  Rimadyl                1331 registros
+  Apoquel                1279 registros
+  Synulox                 865 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -614,6 +614,19 @@ petlove_20260106_201411.xlsx
      - Linha 19: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
      - Linha 20: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
      ... e mais 33
+
+petlove_20260331_203407.xlsx
+  Total: 239
+  Válidos: 212
+  Inválidos: 27
+  Duplicatas: 36
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 21: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 22: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 23: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. P (Simparic)
+     - Linha 25: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 22
 
 petz_20251119_201629.xlsx
   Total: 209
@@ -2124,6 +2137,12 @@ petz_20260302_202848.xlsx
      - Linha 117: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
      ... e mais 33
 
+cobasi_20260331_203252.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
+
 petlove_20251219_201357.xlsx
   Total: 192
   Válidos: 188
@@ -3052,6 +3071,19 @@ petlove_20260220_201941.xlsx
      - Linha 31: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
      - Linha 32: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      ... e mais 22
+
+petz_20260331_203527.xlsx
+  Total: 208
+  Válidos: 171
+  Inválidos: 37
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 31: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 32
 
 petlove_20260221_201508.xlsx
   Total: 247
