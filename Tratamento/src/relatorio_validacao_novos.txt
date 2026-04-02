@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 539
-Total de registros: 106434
-Registros válidos: 95643 (89.9%)
-Registros inválidos: 10791 (10.1%)
-Duplicatas exatas: 11927
+Total de arquivos: 542
+Total de registros: 107028
+Registros válidos: 96174 (89.9%)
+Registros inválidos: 10854 (10.1%)
+Duplicatas exatas: 11991
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               17581 registros
-  Bravecto               9902 registros
-  Simparic               9756 registros
-  Revolution             9616 registros
-  Drontal                8900 registros
-  Vermivet               6614 registros
-  Advocate               6088 registros
-  Frontline              5697 registros
-  Maxicam                4578 registros
-  Milbemax               3120 registros
-  Baytril                2774 registros
-  Onsior                 2165 registros
-  Zenrelia               2092 registros
-  Carproflan             1843 registros
-  Previcox               1422 registros
-  Rimadyl                1339 registros
-  Apoquel                1286 registros
-  Synulox                 870 registros
+  Nexgard               17679 registros
+  Bravecto               9957 registros
+  Simparic               9808 registros
+  Revolution             9675 registros
+  Drontal                8958 registros
+  Vermivet               6649 registros
+  Advocate               6120 registros
+  Frontline              5730 registros
+  Maxicam                4588 registros
+  Milbemax               3140 registros
+  Baytril                2789 registros
+  Onsior                 2177 registros
+  Zenrelia               2104 registros
+  Carproflan             1855 registros
+  Previcox               1430 registros
+  Rimadyl                1347 registros
+  Apoquel                1293 registros
+  Synulox                 875 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -2758,6 +2758,19 @@ petlove_20251206_201252.xlsx
      - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
+petz_20260402_202723.xlsx
+  Total: 206
+  Válidos: 170
+  Inválidos: 36
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 31: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 123: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 31
+
 petlove_20251112_201434.xlsx
   Total: 184
   Válidos: 180
@@ -2822,6 +2835,19 @@ cobasi_20260102_201221.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 17
+
+petlove_20260402_202558.xlsx
+  Total: 239
+  Válidos: 212
+  Inválidos: 27
+  Duplicatas: 36
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 21: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 22: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 23: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. P (Simparic)
+     - Linha 25: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 22
 
 petlove_20251126_201344.xlsx
   Total: 186
@@ -3768,6 +3794,12 @@ petlove_20260317_203011.xlsx
 cobasi_20251119_201127.xlsx
   Total: 165
   Válidos: 165
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20260402_202431.xlsx
+  Total: 149
+  Válidos: 149
   Inválidos: 0
   Duplicatas: 14
 
