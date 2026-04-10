@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 563
-Total de registros: 111227
-Registros válidos: 99926 (89.8%)
-Registros inválidos: 11301 (10.2%)
-Duplicatas exatas: 12481
+Total de arquivos: 566
+Total de registros: 111847
+Registros válidos: 100483 (89.8%)
+Registros inválidos: 11364 (10.2%)
+Duplicatas exatas: 12567
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               18415 registros
-  Bravecto              10340 registros
-  Simparic              10172 registros
-  Revolution            10086 registros
-  Drontal                9345 registros
-  Vermivet               6893 registros
-  Advocate               6344 registros
-  Frontline              5961 registros
-  Maxicam                4658 registros
-  Milbemax               3281 registros
-  Baytril                2894 registros
-  Onsior                 2261 registros
-  Zenrelia               2196 registros
-  Carproflan             1939 registros
-  Previcox               1486 registros
-  Rimadyl                1403 registros
-  Apoquel                1342 registros
-  Synulox                 910 registros
+  Nexgard               18535 registros
+  Bravecto              10394 registros
+  Simparic              10224 registros
+  Revolution            10145 registros
+  Drontal                9404 registros
+  Vermivet               6927 registros
+  Advocate               6376 registros
+  Frontline              5994 registros
+  Maxicam                4668 registros
+  Milbemax               3302 registros
+  Baytril                2909 registros
+  Onsior                 2273 registros
+  Zenrelia               2212 registros
+  Carproflan             1951 registros
+  Previcox               1494 registros
+  Rimadyl                1411 registros
+  Apoquel                1349 registros
+  Synulox                 915 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -745,6 +745,19 @@ petz_20260216_202054.xlsx
      - Linha 33: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
      - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 45
+
+petlove_20260410_202615.xlsx
+  Total: 264
+  Válidos: 237
+  Inválidos: 27
+  Duplicatas: 58
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 23: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. P (Simparic)
+     - Linha 25: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 26: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 22
 
 cobasi_20260220_201816.xlsx
   Total: 167
@@ -2296,6 +2309,12 @@ petz_20260116_201547.xlsx
      - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      ... e mais 43
 
+cobasi_20260410_202443.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
+
 petz_20251114_201600.xlsx
   Total: 210
   Válidos: 162
@@ -3455,6 +3474,19 @@ petz_20251019_201404.xlsx
      - Linha 29: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 46
+
+petz_20260410_202746.xlsx
+  Total: 207
+  Válidos: 171
+  Inválidos: 36
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 31
 
 petlove_20251115_201325.xlsx
   Total: 184
