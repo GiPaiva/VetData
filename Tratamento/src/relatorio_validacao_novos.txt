@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 569
-Total de registros: 112464
-Registros válidos: 101035 (89.8%)
-Registros inválidos: 11429 (10.2%)
-Duplicatas exatas: 12652
+Total de arquivos: 572
+Total de registros: 113081
+Registros válidos: 101586 (89.8%)
+Registros inválidos: 11495 (10.2%)
+Duplicatas exatas: 12737
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               18655 registros
-  Bravecto              10448 registros
-  Simparic              10276 registros
-  Revolution            10204 registros
-  Drontal                9458 registros
-  Vermivet               6962 registros
-  Advocate               6408 registros
-  Frontline              6027 registros
-  Maxicam                4678 registros
-  Milbemax               3322 registros
-  Baytril                2924 registros
-  Onsior                 2285 registros
-  Zenrelia               2228 registros
-  Carproflan             1963 registros
-  Previcox               1502 registros
-  Rimadyl                1419 registros
-  Apoquel                1356 registros
-  Synulox                 920 registros
+  Nexgard               18775 registros
+  Bravecto              10502 registros
+  Simparic              10328 registros
+  Revolution            10263 registros
+  Drontal                9511 registros
+  Vermivet               6997 registros
+  Advocate               6440 registros
+  Frontline              6060 registros
+  Maxicam                4688 registros
+  Milbemax               3342 registros
+  Baytril                2939 registros
+  Onsior                 2297 registros
+  Zenrelia               2244 registros
+  Carproflan             1975 registros
+  Previcox               1510 registros
+  Rimadyl                1427 registros
+  Apoquel                1363 registros
+  Synulox                 925 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -251,6 +251,19 @@ petz_20251027_201343.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 46
+
+petlove_20260412_202446.xlsx
+  Total: 264
+  Válidos: 236
+  Inválidos: 28
+  Duplicatas: 57
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 23: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. P (Simparic)
+     - Linha 25: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 26: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 23
 
 petlove_20260322_201617.xlsx
   Total: 239
@@ -2935,6 +2948,12 @@ cobasi_20260124_201139.xlsx
   Inválidos: 0
   Duplicatas: 16
 
+cobasi_20260412_202325.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
+
 cobasi_20251005_015337.xlsx
   Total: 161
   Válidos: 161
@@ -5129,6 +5148,19 @@ petlove_20260228_201530.xlsx
      - Linha 19: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      - Linha 20: Petisco Natural Lecker Pé de Coelho para Cães - 10 Unidades (Simparic)
      ... e mais 29
+
+petz_20260412_202610.xlsx
+  Total: 204
+  Válidos: 166
+  Inválidos: 38
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 33
 
 cobasi_20260306_202015.xlsx
   Total: 149
