@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 578
-Total de registros: 114314
-Registros válidos: 102689 (89.8%)
-Registros inválidos: 11625 (10.2%)
-Duplicatas exatas: 12901
+Total de arquivos: 581
+Total de registros: 114935
+Registros válidos: 103246 (89.8%)
+Registros inválidos: 11689 (10.2%)
+Duplicatas exatas: 12983
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               19015 registros
-  Bravecto              10610 registros
-  Simparic              10431 registros
-  Revolution            10381 registros
-  Drontal                9623 registros
-  Vermivet               7067 registros
-  Advocate               6504 registros
-  Frontline              6126 registros
-  Maxicam                4708 registros
-  Milbemax               3382 registros
-  Baytril                2969 registros
-  Onsior                 2321 registros
-  Zenrelia               2272 registros
-  Carproflan             1999 registros
-  Previcox               1526 registros
-  Rimadyl                1443 registros
-  Apoquel                1377 registros
-  Synulox                 935 registros
+  Nexgard               19135 registros
+  Bravecto              10664 registros
+  Simparic              10483 registros
+  Revolution            10440 registros
+  Drontal                9686 registros
+  Vermivet               7102 registros
+  Advocate               6536 registros
+  Frontline              6159 registros
+  Maxicam                4718 registros
+  Milbemax               3402 registros
+  Baytril                2984 registros
+  Onsior                 2333 registros
+  Zenrelia               2284 registros
+  Carproflan             2011 registros
+  Previcox               1534 registros
+  Rimadyl                1451 registros
+  Apoquel                1384 registros
+  Synulox                 940 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1484,6 +1484,19 @@ petlove_20251206_201252.xlsx
      - Linha 107: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
+petlove_20260415_203842.xlsx
+  Total: 260
+  Válidos: 232
+  Inválidos: 28
+  Duplicatas: 54
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 23: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. P (Simparic)
+     - Linha 25: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 26: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 23
+
 cobasi_20260109_201353.xlsx
   Total: 167
   Válidos: 167
@@ -1495,6 +1508,19 @@ cobasi_20260311_202259.xlsx
   Válidos: 149
   Inválidos: 0
   Duplicatas: 14
+
+petz_20260415_204010.xlsx
+  Total: 212
+  Válidos: 176
+  Inválidos: 36
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 31
 
 petlove_20251219_201357.xlsx
   Total: 192
@@ -5342,6 +5368,12 @@ petz_20260106_201530.xlsx
      - Linha 35: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      - Linha 36: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 41
+
+cobasi_20260415_203726.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20260330_203423.xlsx
   Total: 149
