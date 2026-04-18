@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 587
-Total de registros: 116173
-Registros válidos: 104363 (89.8%)
-Registros inválidos: 11810 (10.2%)
-Duplicatas exatas: 13150
+Total de arquivos: 590
+Total de registros: 116797
+Registros válidos: 104924 (89.8%)
+Registros inválidos: 11873 (10.2%)
+Duplicatas exatas: 13236
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               19375 registros
-  Bravecto              10772 registros
-  Simparic              10587 registros
-  Revolution            10558 registros
-  Drontal                9814 registros
-  Vermivet               7171 registros
-  Advocate               6600 registros
-  Frontline              6225 registros
-  Maxicam                4738 registros
-  Milbemax               3443 registros
-  Baytril                3015 registros
-  Onsior                 2357 registros
-  Zenrelia               2312 registros
-  Carproflan             2035 registros
-  Previcox               1546 registros
-  Rimadyl                1467 registros
-  Apoquel                1398 registros
-  Synulox                 950 registros
+  Nexgard               19495 registros
+  Bravecto              10826 registros
+  Simparic              10639 registros
+  Revolution            10617 registros
+  Drontal                9876 registros
+  Vermivet               7206 registros
+  Advocate               6632 registros
+  Frontline              6258 registros
+  Maxicam                4748 registros
+  Milbemax               3463 registros
+  Baytril                3031 registros
+  Onsior                 2369 registros
+  Zenrelia               2328 registros
+  Carproflan             2047 registros
+  Previcox               1554 registros
+  Rimadyl                1475 registros
+  Apoquel                1405 registros
+  Synulox                 955 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -4240,6 +4240,19 @@ cobasi_20251229_201302.xlsx
   Inválidos: 0
   Duplicatas: 15
 
+petlove_20260418_202522.xlsx
+  Total: 265
+  Válidos: 236
+  Inválidos: 29
+  Duplicatas: 58
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 23: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 25: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     - Linha 26: Coleira We Are Family Viva Lili Vermelha para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 24
+
 petz_20260404_202124.xlsx
   Total: 207
   Válidos: 169
@@ -5370,6 +5383,12 @@ petz_20260313_202434.xlsx
      - Linha 124: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
      ... e mais 36
 
+cobasi_20260418_202401.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
+
 cobasi_20260122_201444.xlsx
   Total: 167
   Válidos: 167
@@ -5976,6 +5995,19 @@ petlove_20251011_201203.xlsx
   ⚠️  Produtos inválidos encontrados:
      - Linha 40: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 226: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petz_20260418_202650.xlsx
+  Total: 210
+  Válidos: 176
+  Inválidos: 34
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 29
 
 cobasi_20260103_201141.xlsx
   Total: 167
