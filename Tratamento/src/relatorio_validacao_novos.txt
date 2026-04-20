@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 593
-Total de registros: 117417
-Registros válidos: 105480 (89.8%)
-Registros inválidos: 11937 (10.2%)
-Duplicatas exatas: 13321
+Total de arquivos: 596
+Total de registros: 118049
+Registros válidos: 106049 (89.8%)
+Registros inválidos: 12000 (10.2%)
+Duplicatas exatas: 13407
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               19615 registros
-  Bravecto              10880 registros
-  Simparic              10691 registros
-  Revolution            10676 registros
-  Drontal                9933 registros
-  Vermivet               7241 registros
-  Advocate               6664 registros
-  Frontline              6291 registros
-  Maxicam                4758 registros
-  Milbemax               3483 registros
-  Baytril                3047 registros
-  Onsior                 2381 registros
-  Zenrelia               2344 registros
-  Carproflan             2059 registros
-  Previcox               1562 registros
-  Rimadyl                1483 registros
-  Apoquel                1412 registros
-  Synulox                 960 registros
+  Nexgard               19735 registros
+  Bravecto              10946 registros
+  Simparic              10743 registros
+  Revolution            10735 registros
+  Drontal                9992 registros
+  Vermivet               7275 registros
+  Advocate               6696 registros
+  Frontline              6324 registros
+  Maxicam                4768 registros
+  Milbemax               3503 registros
+  Baytril                3063 registros
+  Onsior                 2393 registros
+  Zenrelia               2360 registros
+  Carproflan             2071 registros
+  Previcox               1570 registros
+  Rimadyl                1491 registros
+  Apoquel                1419 registros
+  Synulox                 965 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1968,6 +1968,12 @@ cobasi_20260125_201254.xlsx
   Válidos: 166
   Inválidos: 0
   Duplicatas: 15
+
+cobasi_20260420_203525.xlsx
+  Total: 149
+  Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
 
 petz_20251009_201457.xlsx
   Total: 290
@@ -5338,6 +5344,19 @@ petlove_20251108_201403.xlsx
      - Linha 104: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 160: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
 
+petlove_20260420_203649.xlsx
+  Total: 277
+  Válidos: 249
+  Inválidos: 28
+  Duplicatas: 58
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. P (Simparic)
+     - Linha 23: Coleira We Are Family Milos Azul para Cães e Gatos - Tam. G (Simparic)
+     - Linha 24: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
+     - Linha 25: Coleira We Are Family Kurô Preta para Cães e Gatos - Tam. G (Simparic)
+     - Linha 26: Coleira We Are Family Viva Lili Vermelha para Cães e Gatos - Tam. G (Simparic)
+     ... e mais 23
+
 petz_20251201_201420.xlsx
   Total: 205
   Válidos: 161
@@ -6018,6 +6037,19 @@ petlove_20251102_201211.xlsx
      - Linha 29: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 104: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 160: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+petz_20260420_203820.xlsx
+  Total: 206
+  Válidos: 171
+  Inválidos: 35
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 125: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 30
 
 petlove_20251011_201203.xlsx
   Total: 255
