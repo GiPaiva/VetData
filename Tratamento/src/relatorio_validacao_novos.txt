@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 621
-Total de registros: 123238
-Registros válidos: 110651 (89.8%)
-Registros inválidos: 12587 (10.2%)
-Duplicatas exatas: 14009
+Total de arquivos: 624
+Total de registros: 123856
+Registros válidos: 111195 (89.8%)
+Registros inválidos: 12661 (10.2%)
+Duplicatas exatas: 14073
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               20541 registros
-  Bravecto              11528 registros
-  Revolution            11230 registros
-  Simparic              11194 registros
-  Drontal               10474 registros
-  Vermivet               7573 registros
-  Advocate               6961 registros
-  Frontline              6599 registros
-  Maxicam                4850 registros
-  Milbemax               3679 registros
-  Baytril                3191 registros
-  Onsior                 2493 registros
-  Zenrelia               2488 registros
-  Carproflan             2173 registros
-  Previcox               1638 registros
-  Rimadyl                1557 registros
-  Apoquel                1476 registros
-  Synulox                1006 registros
+  Nexgard               20639 registros
+  Bravecto              11582 registros
+  Revolution            11289 registros
+  Simparic              11255 registros
+  Drontal               10536 registros
+  Vermivet               7607 registros
+  Advocate               6993 registros
+  Frontline              6632 registros
+  Maxicam                4860 registros
+  Milbemax               3700 registros
+  Baytril                3207 registros
+  Onsior                 2505 registros
+  Zenrelia               2500 registros
+  Carproflan             2185 registros
+  Previcox               1646 registros
+  Rimadyl                1565 registros
+  Apoquel                1483 registros
+  Synulox                1011 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -404,6 +404,12 @@ petz_20260118_201510.xlsx
      - Linha 35: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      ... e mais 42
+
+cobasi_20260430_204926.xlsx
+  Total: 159
+  Válidos: 159
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20251209_201145.xlsx
   Total: 166
@@ -4584,6 +4590,19 @@ cobasi_20251020_201839.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+petlove_20260430_205027.xlsx
+  Total: 248
+  Válidos: 209
+  Inválidos: 39
+  Duplicatas: 36
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 21: Kit Ração Royal Canin Canine Hypoallergenic 10kg e Antipulgas Simparic 120mg para Cães 40,1 a 60kg - KIT (Simparic)
+     - Linha 22: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 25: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
+     ... e mais 34
+
 petz_20251105_201541.xlsx
   Total: 208
   Válidos: 161
@@ -5694,6 +5713,19 @@ cobasi_20260224_202304.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 16
+
+petz_20260430_205201.xlsx
+  Total: 211
+  Válidos: 176
+  Inválidos: 35
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 30
 
 cobasi_20251023_201138.xlsx
   Total: 166
