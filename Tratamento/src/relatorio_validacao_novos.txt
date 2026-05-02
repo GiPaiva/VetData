@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 626
-Total de registros: 124263
-Registros válidos: 111563 (89.8%)
-Registros inválidos: 12700 (10.2%)
-Duplicatas exatas: 14123
+Total de arquivos: 629
+Total de registros: 124881
+Registros válidos: 112105 (89.8%)
+Registros inválidos: 12776 (10.2%)
+Duplicatas exatas: 14186
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               20702 registros
-  Bravecto              11620 registros
-  Revolution            11330 registros
-  Simparic              11304 registros
-  Drontal               10569 registros
-  Vermivet               7635 registros
-  Advocate               7013 registros
-  Frontline              6654 registros
-  Maxicam                4866 registros
-  Milbemax               3717 registros
-  Baytril                3215 registros
-  Onsior                 2513 registros
-  Zenrelia               2508 registros
-  Carproflan             2194 registros
-  Previcox               1652 registros
-  Rimadyl                1570 registros
-  Apoquel                1487 registros
-  Synulox                1014 registros
+  Nexgard               20801 registros
+  Bravecto              11674 registros
+  Revolution            11389 registros
+  Simparic              11363 registros
+  Drontal               10630 registros
+  Vermivet               7669 registros
+  Advocate               7045 registros
+  Frontline              6687 registros
+  Maxicam                4876 registros
+  Milbemax               3738 registros
+  Baytril                3231 registros
+  Onsior                 2525 registros
+  Zenrelia               2520 registros
+  Carproflan             2206 registros
+  Previcox               1660 registros
+  Rimadyl                1578 registros
+  Apoquel                1494 registros
+  Synulox                1019 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -357,6 +357,19 @@ petz_20251212_201505.xlsx
      - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 43
+
+petz_20260502_203249.xlsx
+  Total: 212
+  Válidos: 175
+  Inválidos: 37
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 32: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 33: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 34: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 124: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
+     ... e mais 32
 
 cobasi_20260310_202237.xlsx
   Total: 149
@@ -3367,6 +3380,19 @@ petz_20251017_201450.xlsx
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 44
 
+petlove_20260502_203119.xlsx
+  Total: 248
+  Válidos: 209
+  Inválidos: 39
+  Duplicatas: 35
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 20: Kit Ração Royal Canin Canine Hypoallergenic 10kg e Antipulgas Simparic 120mg para Cães 40,1 a 60kg - KIT (Simparic)
+     - Linha 21: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 22: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
+     ... e mais 34
+
 petlove_20260103_201306.xlsx
   Total: 190
   Válidos: 186
@@ -3893,6 +3919,12 @@ cobasi_20251102_201040.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 17
+
+cobasi_20260502_203021.xlsx
+  Total: 158
+  Válidos: 158
+  Inválidos: 0
+  Duplicatas: 14
 
 petz_20251121_201509.xlsx
   Total: 206
