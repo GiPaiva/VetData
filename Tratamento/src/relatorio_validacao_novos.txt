@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 674
-Total de registros: 134166
-Registros válidos: 120354 (89.7%)
-Registros inválidos: 13812 (10.3%)
-Duplicatas exatas: 15109
+Total de arquivos: 677
+Total de registros: 134795
+Registros válidos: 120912 (89.7%)
+Registros inválidos: 13883 (10.3%)
+Duplicatas exatas: 15170
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               22244 registros
-  Bravecto              12490 registros
-  Simparic              12421 registros
-  Revolution            12279 registros
-  Drontal               11525 registros
-  Vermivet               8199 registros
-  Advocate               7521 registros
-  Frontline              7182 registros
-  Maxicam                5024 registros
-  Milbemax               4045 registros
-  Baytril                3461 registros
-  Onsior                 2705 registros
-  Zenrelia               2700 registros
-  Carproflan             2389 registros
-  Previcox               1782 registros
-  Rimadyl                1697 registros
-  Apoquel                1597 registros
-  Synulox                1093 registros
+  Nexgard               22342 registros
+  Bravecto              12544 registros
+  Simparic              12496 registros
+  Revolution            12338 registros
+  Drontal               11586 registros
+  Vermivet               8236 registros
+  Advocate               7553 registros
+  Frontline              7215 registros
+  Maxicam                5034 registros
+  Milbemax               4064 registros
+  Baytril                3477 registros
+  Onsior                 2717 registros
+  Zenrelia               2712 registros
+  Carproflan             2401 registros
+  Previcox               1790 registros
+  Rimadyl                1705 registros
+  Apoquel                1604 registros
+  Synulox                1098 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -3048,6 +3048,19 @@ petz_20260328_202039.xlsx
      - Linha 125: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
      ... e mais 31
 
+petz_20260519_211334.xlsx
+  Total: 221
+  Válidos: 183
+  Inválidos: 38
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 134: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 137: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 33
+
 cobasi_20251117_201246.xlsx
   Total: 167
   Válidos: 167
@@ -4584,6 +4597,19 @@ cobasi_20260124_201139.xlsx
   Inválidos: 0
   Duplicatas: 16
 
+petlove_20260519_211159.xlsx
+  Total: 249
+  Válidos: 216
+  Inválidos: 33
+  Duplicatas: 33
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Kit Ração Royal Canin Canine Hypoallergenic 10kg e Antipulgas Simparic 120mg para Cães 40,1 a 60kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 25: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 26: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
+     ... e mais 28
+
 cobasi_20260107_201319.xlsx
   Total: 167
   Válidos: 167
@@ -5205,6 +5231,12 @@ cobasi_20260130_201730.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 16
+
+cobasi_20260519_211101.xlsx
+  Total: 159
+  Válidos: 159
+  Inválidos: 0
+  Duplicatas: 14
 
 petlove_20251120_201417.xlsx
   Total: 186
