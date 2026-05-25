@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 691
-Total de registros: 137722
-Registros válidos: 123514 (89.7%)
-Registros inválidos: 14208 (10.3%)
-Duplicatas exatas: 15462
+Total de arquivos: 694
+Total de registros: 138351
+Registros válidos: 124070 (89.7%)
+Registros inválidos: 14281 (10.3%)
+Duplicatas exatas: 15523
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               22796 registros
-  Simparic              12850 registros
-  Bravecto              12798 registros
-  Revolution            12615 registros
-  Drontal               11859 registros
-  Vermivet               8415 registros
-  Advocate               7701 registros
-  Frontline              7369 registros
-  Maxicam                5080 registros
-  Milbemax               4156 registros
-  Baytril                3549 registros
-  Onsior                 2773 registros
-  Zenrelia               2768 registros
-  Carproflan             2458 registros
-  Previcox               1828 registros
-  Rimadyl                1742 registros
-  Apoquel                1636 registros
-  Synulox                1121 registros
+  Nexgard               22894 registros
+  Simparic              12926 registros
+  Bravecto              12852 registros
+  Revolution            12674 registros
+  Drontal               11917 registros
+  Vermivet               8452 registros
+  Advocate               7733 registros
+  Frontline              7402 registros
+  Maxicam                5090 registros
+  Milbemax               4175 registros
+  Baytril                3565 registros
+  Onsior                 2785 registros
+  Zenrelia               2780 registros
+  Carproflan             2470 registros
+  Previcox               1836 registros
+  Rimadyl                1750 registros
+  Apoquel                1643 registros
+  Synulox                1126 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1086,6 +1086,19 @@ cobasi_20260411_202023.xlsx
   Válidos: 149
   Inválidos: 0
   Duplicatas: 14
+
+petz_20260525_210037.xlsx
+  Total: 220
+  Válidos: 183
+  Inválidos: 37
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 133: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 136: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 32
 
 cobasi_20251005_015337.xlsx
   Total: 161
@@ -3000,6 +3013,19 @@ cobasi_20260327_202544.xlsx
   Válidos: 149
   Inválidos: 0
   Duplicatas: 14
+
+petlove_20260525_205852.xlsx
+  Total: 249
+  Válidos: 213
+  Inválidos: 36
+  Duplicatas: 33
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 25: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
+     - Linha 26: Kit Ração Royal Canin Mini Adult 7,5kg e Antipulgas Simparic 20mg para Cães 5,1 a 10kg - KIT (Simparic)
+     ... e mais 31
 
 petz_20251231_201513.xlsx
   Total: 214
@@ -6277,6 +6303,12 @@ petz_20251115_201455.xlsx
 cobasi_20260131_201312.xlsx
   Total: 167
   Válidos: 167
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20260525_205751.xlsx
+  Total: 160
+  Válidos: 160
   Inválidos: 0
   Duplicatas: 14
 
