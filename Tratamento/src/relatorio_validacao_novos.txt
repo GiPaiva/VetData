@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 697
-Total de registros: 138981
-Registros válidos: 124628 (89.7%)
-Registros inválidos: 14353 (10.3%)
-Duplicatas exatas: 15583
+Total de arquivos: 700
+Total de registros: 139611
+Registros válidos: 125184 (89.7%)
+Registros inválidos: 14427 (10.3%)
+Duplicatas exatas: 15645
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               22993 registros
-  Simparic              13002 registros
-  Bravecto              12906 registros
-  Revolution            12733 registros
-  Drontal               11977 registros
-  Vermivet               8489 registros
-  Advocate               7765 registros
-  Frontline              7435 registros
-  Maxicam                5100 registros
-  Milbemax               4193 registros
-  Baytril                3581 registros
-  Onsior                 2797 registros
-  Zenrelia               2792 registros
-  Carproflan             2482 registros
-  Previcox               1844 registros
-  Rimadyl                1758 registros
-  Apoquel                1650 registros
-  Synulox                1131 registros
+  Nexgard               23092 registros
+  Simparic              13078 registros
+  Bravecto              12960 registros
+  Revolution            12792 registros
+  Drontal               12035 registros
+  Vermivet               8524 registros
+  Advocate               7797 registros
+  Frontline              7468 registros
+  Maxicam                5110 registros
+  Milbemax               4213 registros
+  Baytril                3597 registros
+  Onsior                 2809 registros
+  Zenrelia               2804 registros
+  Carproflan             2494 registros
+  Previcox               1852 registros
+  Rimadyl                1766 registros
+  Apoquel                1657 registros
+  Synulox                1136 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1591,6 +1591,12 @@ petlove_20260501_204154.xlsx
      - Linha 25: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
      ... e mais 34
 
+cobasi_20260527_214333.xlsx
+  Total: 160
+  Válidos: 160
+  Inválidos: 0
+  Duplicatas: 14
+
 petz_20251108_201527.xlsx
   Total: 209
   Válidos: 161
@@ -2748,6 +2754,19 @@ petz_20251105_201541.xlsx
      - Linha 30: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
      ... e mais 42
 
+petlove_20260527_214430.xlsx
+  Total: 249
+  Válidos: 213
+  Inválidos: 36
+  Duplicatas: 34
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 25: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
+     - Linha 26: Kit Ração Royal Canin Mini Adult 7,5kg e Antipulgas Simparic 20mg para Cães 5,1 a 10kg - KIT (Simparic)
+     ... e mais 31
+
 petlove_20251023_201315.xlsx
   Total: 209
   Válidos: 206
@@ -3482,6 +3501,19 @@ cobasi_20260310_202237.xlsx
   Válidos: 149
   Inválidos: 0
   Duplicatas: 14
+
+petz_20260527_214607.xlsx
+  Total: 221
+  Válidos: 183
+  Inválidos: 38
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 133: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 136: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 33
 
 petlove_20251216_201501.xlsx
   Total: 199
