@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 715
-Total de registros: 142753
-Registros válidos: 127967 (89.6%)
-Registros inválidos: 14786 (10.4%)
-Duplicatas exatas: 15950
+Total de arquivos: 718
+Total de registros: 143381
+Registros válidos: 128523 (89.6%)
+Registros inválidos: 14858 (10.4%)
+Duplicatas exatas: 16011
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               23582 registros
-  Simparic              13458 registros
-  Bravecto              13230 registros
-  Revolution            13087 registros
-  Drontal               12326 registros
-  Vermivet               8710 registros
-  Advocate               7957 registros
-  Frontline              7633 registros
-  Maxicam                5160 registros
-  Milbemax               4309 registros
-  Baytril                3677 registros
-  Onsior                 2869 registros
-  Zenrelia               2864 registros
-  Carproflan             2554 registros
-  Previcox               1892 registros
-  Rimadyl                1806 registros
-  Apoquel                1692 registros
-  Synulox                1161 registros
+  Nexgard               23680 registros
+  Simparic              13534 registros
+  Bravecto              13284 registros
+  Revolution            13146 registros
+  Drontal               12383 registros
+  Vermivet               8747 registros
+  Advocate               7989 registros
+  Frontline              7666 registros
+  Maxicam                5170 registros
+  Milbemax               4329 registros
+  Baytril                3693 registros
+  Onsior                 2881 registros
+  Zenrelia               2876 registros
+  Carproflan             2566 registros
+  Previcox               1900 registros
+  Rimadyl                1814 registros
+  Apoquel                1699 registros
+  Synulox                1166 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -632,6 +632,19 @@ cobasi_20251030_201204.xlsx
   Válidos: 166
   Inválidos: 0
   Duplicatas: 14
+
+petz_20260602_221934.xlsx
+  Total: 219
+  Válidos: 184
+  Inválidos: 35
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 137: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
+     - Linha 143: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
+     ... e mais 30
 
 cobasi_20251124_201245.xlsx
   Total: 165
@@ -2981,6 +2994,12 @@ cobasi_20251116_201125.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 17
+
+cobasi_20260602_221653.xlsx
+  Total: 160
+  Válidos: 160
+  Inválidos: 0
+  Duplicatas: 14
 
 petlove_20260414_204316.xlsx
   Total: 260
@@ -6252,6 +6271,19 @@ petz_20260302_202848.xlsx
      - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 117: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
      ... e mais 33
+
+petlove_20260602_221754.xlsx
+  Total: 249
+  Válidos: 212
+  Inválidos: 37
+  Duplicatas: 33
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 25: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
+     - Linha 26: Kit Ração Royal Canin Mini Adult 7,5kg e Antipulgas Simparic 20mg para Cães 5,1 a 10kg - KIT (Simparic)
+     ... e mais 32
 
 petz_20251017_201450.xlsx
   Total: 209
