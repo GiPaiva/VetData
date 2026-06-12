@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 745
-Total de registros: 149073
-Registros válidos: 133578 (89.6%)
-Registros inválidos: 15495 (10.4%)
-Duplicatas exatas: 16570
+Total de arquivos: 748
+Total de registros: 149713
+Registros válidos: 134143 (89.6%)
+Registros inválidos: 15570 (10.4%)
+Duplicatas exatas: 16633
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               24562 registros
-  Simparic              14218 registros
-  Bravecto              13770 registros
-  Revolution            13677 registros
-  Drontal               12964 registros
-  Vermivet               9074 registros
-  Advocate               8277 registros
-  Frontline              7963 registros
-  Maxicam                5260 registros
-  Milbemax               4501 registros
-  Baytril                3837 registros
-  Onsior                 2989 registros
-  Zenrelia               2981 registros
-  Carproflan             2674 registros
-  Previcox               1972 registros
-  Rimadyl                1886 registros
-  Apoquel                1762 registros
-  Synulox                1211 registros
+  Nexgard               24660 registros
+  Simparic              14294 registros
+  Bravecto              13824 registros
+  Revolution            13736 registros
+  Drontal               13033 registros
+  Vermivet               9110 registros
+  Advocate               8309 registros
+  Frontline              7996 registros
+  Maxicam                5270 registros
+  Milbemax               4520 registros
+  Baytril                3853 registros
+  Onsior                 3001 registros
+  Zenrelia               2992 registros
+  Carproflan             2686 registros
+  Previcox               1980 registros
+  Rimadyl                1894 registros
+  Apoquel                1769 registros
+  Synulox                1216 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -609,6 +609,19 @@ cobasi_20260528_214909.xlsx
   Válidos: 160
   Inválidos: 0
   Duplicatas: 14
+
+petlove_20260612_212501.xlsx
+  Total: 249
+  Válidos: 216
+  Inválidos: 33
+  Duplicatas: 35
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 25: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
+     - Linha 26: Kit Ração Royal Canin Mini Adult 7,5kg e Antipulgas Simparic 20mg para Cães 5,1 a 10kg - KIT (Simparic)
+     ... e mais 28
 
 petz_20260401_204554.xlsx
   Total: 206
@@ -2178,6 +2191,12 @@ petz_20251025_201429.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 45
+
+cobasi_20260612_212403.xlsx
+  Total: 159
+  Válidos: 159
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20251030_201204.xlsx
   Total: 166
@@ -4942,6 +4961,19 @@ cobasi_20251205_201242.xlsx
   Válidos: 166
   Inválidos: 0
   Duplicatas: 15
+
+petz_20260612_212624.xlsx
+  Total: 232
+  Válidos: 190
+  Inválidos: 42
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 37
 
 cobasi_20251224_201212.xlsx
   Total: 166
