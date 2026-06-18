@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 763
-Total de registros: 152927
-Registros válidos: 136974 (89.6%)
-Registros inválidos: 15953 (10.4%)
-Duplicatas exatas: 16951
+Total de arquivos: 766
+Total de registros: 153568
+Registros válidos: 137537 (89.6%)
+Registros inválidos: 16031 (10.4%)
+Duplicatas exatas: 17014
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               25150 registros
-  Simparic              14674 registros
-  Bravecto              14094 registros
-  Revolution            14031 registros
-  Drontal               13384 registros
-  Vermivet               9289 registros
-  Advocate               8469 registros
-  Frontline              8161 registros
-  Maxicam                5320 registros
-  Milbemax               4615 registros
-  Baytril                3933 registros
-  Onsior                 3061 registros
-  Zenrelia               3048 registros
-  Carproflan             2746 registros
-  Previcox               2020 registros
-  Rimadyl                1934 registros
-  Apoquel                1804 registros
-  Synulox                1241 registros
+  Nexgard               25249 registros
+  Simparic              14750 registros
+  Bravecto              14148 registros
+  Revolution            14090 registros
+  Drontal               13450 registros
+  Vermivet               9325 registros
+  Advocate               8501 registros
+  Frontline              8194 registros
+  Maxicam                5330 registros
+  Milbemax               4634 registros
+  Baytril                3949 registros
+  Onsior                 3073 registros
+  Zenrelia               3059 registros
+  Carproflan             2758 registros
+  Previcox               2028 registros
+  Rimadyl                1942 registros
+  Apoquel                1811 registros
+  Synulox                1246 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -5179,6 +5179,12 @@ cobasi_20260507_205645.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+cobasi_20260618_215617.xlsx
+  Total: 159
+  Válidos: 159
+  Inválidos: 0
+  Duplicatas: 14
+
 cobasi_20251201_201135.xlsx
   Total: 167
   Válidos: 167
@@ -5781,6 +5787,19 @@ petz_20251207_201419.xlsx
      - Linha 35: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 36: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 42
+
+petlove_20260618_215710.xlsx
+  Total: 249
+  Válidos: 215
+  Inválidos: 34
+  Duplicatas: 35
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: Kit Ração Royal Canin Shih Tzu 7,5Kg e Antipulgas Simparic 20 mg para Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 23: Kit Ração Royal Canin Maxi Adult Cães Grandes 12kg e Antipulgas Simparic 80mg 20,1 a 40kg - KIT (Simparic)
+     - Linha 24: Kit Ração Royal Canin Mini Indoor Cães Adultos 7,5Kg + Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     - Linha 25: Kit Ração Royal Canin Mini Adult 7,5kg e Antipulgas Simparic 20mg para Cães 5,1 a 10kg - KIT (Simparic)
+     - Linha 26: Kit Ração Royal Canin Satiety Cães Raças Pequenas 1,5Kg e Antipulgas Simparic 20 mg Cães 5,1 a 10Kg - KIT (Simparic)
+     ... e mais 29
 
 cobasi_20251204_201248.xlsx
   Total: 167
@@ -6921,6 +6940,19 @@ petz_20251120_201549.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 40
+
+petz_20260618_215853.xlsx
+  Total: 233
+  Válidos: 189
+  Inválidos: 44
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 39
 
 petz_20260609_213120.xlsx
   Total: 230
