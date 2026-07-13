@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 836
-Total de registros: 168416
-Registros válidos: 150764 (89.5%)
-Registros inválidos: 17652 (10.5%)
-Duplicatas exatas: 18535
+Total de arquivos: 839
+Total de registros: 169051
+Registros válidos: 151334 (89.5%)
+Registros inválidos: 17717 (10.5%)
+Duplicatas exatas: 18601
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               27495 registros
-  Simparic              16523 registros
-  Revolution            15470 registros
-  Bravecto              15411 registros
-  Drontal               15092 registros
-  Vermivet              10167 registros
-  Advocate               9246 registros
-  Frontline              8964 registros
-  Maxicam                5565 registros
-  Milbemax               5114 registros
-  Baytril                4317 registros
-  Onsior                 3353 registros
-  Zenrelia               3328 registros
-  Carproflan             3040 registros
-  Previcox               2216 registros
-  Rimadyl                2128 registros
-  Apoquel                1973 registros
-  Synulox                1362 registros
+  Nexgard               27590 registros
+  Simparic              16599 registros
+  Revolution            15529 registros
+  Bravecto              15465 registros
+  Drontal               15165 registros
+  Vermivet              10203 registros
+  Advocate               9278 registros
+  Frontline              8997 registros
+  Maxicam                5576 registros
+  Milbemax               5135 registros
+  Baytril                4333 registros
+  Onsior                 3365 registros
+  Zenrelia               3340 registros
+  Carproflan             3052 registros
+  Previcox               2224 registros
+  Rimadyl                2136 registros
+  Apoquel                1980 registros
+  Synulox                1367 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -6363,6 +6363,12 @@ cobasi_20251018_201109.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+cobasi_20260713_204739.xlsx
+  Total: 160
+  Válidos: 160
+  Inválidos: 0
+  Duplicatas: 14
+
 petlove_20251227_201325.xlsx
   Total: 190
   Válidos: 186
@@ -7619,6 +7625,19 @@ cobasi_20260705_204542.xlsx
   Inválidos: 0
   Duplicatas: 14
 
+petz_20260713_205015.xlsx
+  Total: 226
+  Válidos: 191
+  Inválidos: 35
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 30
+
 petz_20260609_213120.xlsx
   Total: 230
   Válidos: 191
@@ -8585,6 +8604,19 @@ cobasi_20260712_203456.xlsx
   Válidos: 160
   Inválidos: 0
   Duplicatas: 14
+
+petlove_20260713_204836.xlsx
+  Total: 249
+  Válidos: 219
+  Inválidos: 30
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 25
 
 petz_20251201_201420.xlsx
   Total: 205
