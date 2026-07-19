@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 853
-Total de registros: 171999
-Registros válidos: 153982 (89.5%)
-Registros inválidos: 18017 (10.5%)
-Duplicatas exatas: 18917
+Total de arquivos: 856
+Total de registros: 172631
+Registros válidos: 154546 (89.5%)
+Registros inválidos: 18085 (10.5%)
+Duplicatas exatas: 18983
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               28029 registros
-  Simparic              16955 registros
-  Revolution            15806 registros
-  Bravecto              15719 registros
-  Drontal               15488 registros
-  Vermivet              10378 registros
-  Advocate               9426 registros
-  Frontline              9151 registros
-  Maxicam                5626 registros
-  Milbemax               5236 registros
-  Baytril                4405 registros
-  Onsior                 3421 registros
-  Zenrelia               3396 registros
-  Carproflan             3109 registros
-  Previcox               2262 registros
-  Rimadyl                2173 registros
-  Apoquel                2012 registros
-  Synulox                1390 registros
+  Nexgard               28124 registros
+  Simparic              17031 registros
+  Revolution            15865 registros
+  Bravecto              15773 registros
+  Drontal               15555 registros
+  Vermivet              10414 registros
+  Advocate               9458 registros
+  Frontline              9184 registros
+  Maxicam                5637 registros
+  Milbemax               5257 registros
+  Baytril                4421 registros
+  Onsior                 3433 registros
+  Zenrelia               3408 registros
+  Carproflan             3121 registros
+  Previcox               2270 registros
+  Rimadyl                2181 registros
+  Apoquel                2019 registros
+  Synulox                1395 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -859,6 +859,19 @@ cobasi_20251210_201314.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 17
+
+petz_20260719_203957.xlsx
+  Total: 223
+  Válidos: 187
+  Inválidos: 36
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 43: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 44: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 31
 
 cobasi_20260602_221653.xlsx
   Total: 160
@@ -3004,6 +3017,19 @@ petz_20260212_202527.xlsx
      - Linha 33: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
      - Linha 34: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 46
+
+petlove_20260719_203816.xlsx
+  Total: 249
+  Válidos: 217
+  Inválidos: 32
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 27
 
 petlove_20251203_201442.xlsx
   Total: 208
@@ -8276,6 +8302,12 @@ cobasi_20260119_201307.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 16
+
+cobasi_20260719_203722.xlsx
+  Total: 160
+  Válidos: 160
+  Inválidos: 0
+  Duplicatas: 14
 
 petlove_20260131_201436.xlsx
   Total: 247
