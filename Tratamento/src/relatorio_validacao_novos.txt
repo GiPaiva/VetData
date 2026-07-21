@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 859
-Total de registros: 173263
-Registros válidos: 155110 (89.5%)
-Registros inválidos: 18153 (10.5%)
-Duplicatas exatas: 19049
+Total de arquivos: 862
+Total de registros: 173898
+Registros válidos: 155677 (89.5%)
+Registros inválidos: 18221 (10.5%)
+Duplicatas exatas: 19115
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               28219 registros
-  Simparic              17107 registros
-  Revolution            15924 registros
-  Bravecto              15827 registros
-  Drontal               15622 registros
-  Vermivet              10450 registros
-  Advocate               9490 registros
-  Frontline              9217 registros
-  Maxicam                5648 registros
-  Milbemax               5278 registros
-  Baytril                4437 registros
-  Onsior                 3445 registros
-  Zenrelia               3420 registros
-  Carproflan             3133 registros
-  Previcox               2278 registros
-  Rimadyl                2189 registros
-  Apoquel                2026 registros
-  Synulox                1400 registros
+  Nexgard               28314 registros
+  Simparic              17183 registros
+  Revolution            15983 registros
+  Bravecto              15881 registros
+  Drontal               15692 registros
+  Vermivet              10486 registros
+  Advocate               9522 registros
+  Frontline              9250 registros
+  Maxicam                5659 registros
+  Milbemax               5299 registros
+  Baytril                4453 registros
+  Onsior                 3457 registros
+  Zenrelia               3432 registros
+  Carproflan             3145 registros
+  Previcox               2286 registros
+  Rimadyl                2197 registros
+  Apoquel                2033 registros
+  Synulox                1405 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -1389,6 +1389,12 @@ petlove_20260628_205116.xlsx
      - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
      - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
      ... e mais 27
+
+cobasi_20260721_205746.xlsx
+  Total: 160
+  Válidos: 160
+  Inválidos: 0
+  Duplicatas: 14
 
 petz_20260119_201614.xlsx
   Total: 209
@@ -7270,6 +7276,19 @@ cobasi_20251218_201225.xlsx
   Inválidos: 0
   Duplicatas: 15
 
+petlove_20260721_205841.xlsx
+  Total: 249
+  Válidos: 217
+  Inválidos: 32
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 27
+
 petz_20260630_212519.xlsx
   Total: 228
   Válidos: 189
@@ -7826,6 +7845,19 @@ petlove_20260203_202514.xlsx
      - Linha 96: Alça de mão para Arnês Suporte Frontal e Pélvico Help Em' Up - Tamanho Único (Drontal)
      - Linha 97: Alças de Ombro para Arnês Suporte Frontal e Pélvico Help Em' Up 2em1 - Tam GG (Drontal)
      ... e mais 12
+
+petz_20260721_210012.xlsx
+  Total: 226
+  Válidos: 190
+  Inválidos: 36
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 43: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 44: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 31
 
 petz_20260227_202059.xlsx
   Total: 207
