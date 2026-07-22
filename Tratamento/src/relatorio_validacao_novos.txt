@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 862
-Total de registros: 173898
-Registros válidos: 155677 (89.5%)
-Registros inválidos: 18221 (10.5%)
-Duplicatas exatas: 19115
+Total de arquivos: 864
+Total de registros: 174307
+Registros válidos: 156054 (89.5%)
+Registros inválidos: 18253 (10.5%)
+Duplicatas exatas: 19167
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               28314 registros
-  Simparic              17183 registros
-  Revolution            15983 registros
-  Bravecto              15881 registros
-  Drontal               15692 registros
-  Vermivet              10486 registros
-  Advocate               9522 registros
-  Frontline              9250 registros
-  Maxicam                5659 registros
-  Milbemax               5299 registros
-  Baytril                4453 registros
-  Onsior                 3457 registros
-  Zenrelia               3432 registros
-  Carproflan             3145 registros
-  Previcox               2286 registros
-  Rimadyl                2197 registros
-  Apoquel                2033 registros
-  Synulox                1405 registros
+  Nexgard               28373 registros
+  Simparic              17235 registros
+  Revolution            16024 registros
+  Bravecto              15919 registros
+  Drontal               15732 registros
+  Vermivet              10517 registros
+  Advocate               9542 registros
+  Frontline              9272 registros
+  Maxicam                5665 registros
+  Milbemax               5316 registros
+  Baytril                4461 registros
+  Onsior                 3465 registros
+  Zenrelia               3440 registros
+  Carproflan             3154 registros
+  Previcox               2292 registros
+  Rimadyl                2202 registros
+  Apoquel                2037 registros
+  Synulox                1408 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -258,6 +258,12 @@ petz_20260505_205424.xlsx
      - Linha 122: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
      - Linha 124: Caixa de Transporte Luxo Furacão Pet Preto e Azul (Drontal)
      ... e mais 33
+
+cobasi_20260722_205339.xlsx
+  Total: 160
+  Válidos: 160
+  Inválidos: 0
+  Duplicatas: 14
 
 petlove_20260412_202446.xlsx
   Total: 264
@@ -3221,6 +3227,19 @@ petz_20251115_201455.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 43
+
+petlove_20260722_205436.xlsx
+  Total: 249
+  Válidos: 217
+  Inválidos: 32
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 27
 
 petlove_20260124_201303.xlsx
   Total: 242
