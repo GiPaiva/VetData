@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 867
-Total de registros: 174942
-Registros válidos: 156621 (89.5%)
-Registros inválidos: 18321 (10.5%)
-Duplicatas exatas: 19233
+Total de arquivos: 870
+Total de registros: 175578
+Registros válidos: 157189 (89.5%)
+Registros inválidos: 18389 (10.5%)
+Duplicatas exatas: 19299
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               28468 registros
-  Simparic              17311 registros
-  Revolution            16083 registros
-  Bravecto              15973 registros
-  Drontal               15802 registros
-  Vermivet              10553 registros
-  Advocate               9574 registros
-  Frontline              9305 registros
-  Maxicam                5676 registros
-  Milbemax               5337 registros
-  Baytril                4477 registros
-  Onsior                 3477 registros
-  Zenrelia               3452 registros
-  Carproflan             3166 registros
-  Previcox               2300 registros
-  Rimadyl                2210 registros
-  Apoquel                2044 registros
-  Synulox                1413 registros
+  Nexgard               28563 registros
+  Simparic              17387 registros
+  Revolution            16142 registros
+  Bravecto              16028 registros
+  Drontal               15872 registros
+  Vermivet              10589 registros
+  Advocate               9606 registros
+  Frontline              9338 registros
+  Maxicam                5687 registros
+  Milbemax               5358 registros
+  Baytril                4493 registros
+  Onsior                 3489 registros
+  Zenrelia               3464 registros
+  Carproflan             3178 registros
+  Previcox               2308 registros
+  Rimadyl                2218 registros
+  Apoquel                2051 registros
+  Synulox                1418 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -572,6 +572,19 @@ cobasi_20260401_203412.xlsx
   Válidos: 149
   Inválidos: 0
   Duplicatas: 14
+
+petz_20260724_205757.xlsx
+  Total: 226
+  Válidos: 190
+  Inválidos: 36
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 44: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 31
 
 petlove_20260218_202837.xlsx
   Total: 249
@@ -1393,6 +1406,19 @@ cobasi_20260313_202152.xlsx
   Válidos: 149
   Inválidos: 0
   Duplicatas: 14
+
+petlove_20260724_205559.xlsx
+  Total: 250
+  Válidos: 218
+  Inválidos: 32
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 27
 
 petlove_20251114_201440.xlsx
   Total: 184
@@ -7948,6 +7974,12 @@ petz_20260530_204558.xlsx
 cobasi_20260507_205645.xlsx
   Total: 158
   Válidos: 158
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20260724_205501.xlsx
+  Total: 160
+  Válidos: 160
   Inválidos: 0
   Duplicatas: 14
 
