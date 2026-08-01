@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 891
-Total de registros: 180021
-Registros válidos: 161147 (89.5%)
-Registros inválidos: 18874 (10.5%)
-Duplicatas exatas: 19762
+Total de arquivos: 894
+Total de registros: 180656
+Registros válidos: 161711 (89.5%)
+Registros inválidos: 18945 (10.5%)
+Duplicatas exatas: 19828
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               29228 registros
-  Simparic              17919 registros
-  Revolution            16555 registros
-  Bravecto              16413 registros
-  Drontal               16346 registros
-  Vermivet              10840 registros
-  Advocate               9830 registros
-  Frontline              9569 registros
-  Maxicam                5764 registros
-  Milbemax               5505 registros
-  Baytril                4605 registros
-  Onsior                 3573 registros
-  Zenrelia               3548 registros
-  Carproflan             3261 registros
-  Previcox               2364 registros
-  Rimadyl                2274 registros
-  Apoquel                2100 registros
-  Synulox                1453 registros
+  Nexgard               29323 registros
+  Simparic              17995 registros
+  Revolution            16613 registros
+  Bravecto              16468 registros
+  Drontal               16413 registros
+  Vermivet              10876 registros
+  Advocate               9862 registros
+  Frontline              9602 registros
+  Maxicam                5775 registros
+  Milbemax               5526 registros
+  Baytril                4621 registros
+  Onsior                 3585 registros
+  Zenrelia               3560 registros
+  Carproflan             3273 registros
+  Previcox               2372 registros
+  Rimadyl                2282 registros
+  Apoquel                2107 registros
+  Synulox                1458 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -895,6 +895,19 @@ cobasi_20251201_201135.xlsx
   Válidos: 167
   Inválidos: 0
   Duplicatas: 14
+
+petlove_20260801_204113.xlsx
+  Total: 250
+  Válidos: 217
+  Inválidos: 33
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 28
 
 petlove_20260427_205028.xlsx
   Total: 270
@@ -5668,6 +5681,19 @@ petlove_20260305_202919.xlsx
      - Linha 26: Coleira We Are Family Lila Lilás para Cães e Gatos - Tam. G (Simparic)
      ... e mais 22
 
+petz_20260801_204247.xlsx
+  Total: 226
+  Válidos: 188
+  Inválidos: 38
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 43: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 44: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 33
+
 cobasi_20260715_204804.xlsx
   Total: 160
   Válidos: 160
@@ -6429,6 +6455,12 @@ petz_20251114_201600.xlsx
      - Linha 29: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      - Linha 30: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
      ... e mais 43
+
+cobasi_20260801_204013.xlsx
+  Total: 159
+  Válidos: 159
+  Inválidos: 0
+  Duplicatas: 14
 
 petlove_20260621_210427.xlsx
   Total: 249
