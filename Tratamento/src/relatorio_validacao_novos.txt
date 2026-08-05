@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 903
-Total de registros: 182558
-Registros válidos: 163399 (89.5%)
-Registros inválidos: 19159 (10.5%)
-Duplicatas exatas: 20023
+Total de arquivos: 906
+Total de registros: 183195
+Registros válidos: 163963 (89.5%)
+Registros inválidos: 19232 (10.5%)
+Duplicatas exatas: 20088
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               29608 registros
-  Simparic              18223 registros
-  Revolution            16787 registros
-  Bravecto              16625 registros
-  Drontal               16617 registros
-  Vermivet              10985 registros
-  Advocate               9958 registros
-  Frontline              9701 registros
-  Maxicam                5808 registros
-  Milbemax               5589 registros
-  Baytril                4669 registros
-  Onsior                 3621 registros
-  Zenrelia               3596 registros
-  Carproflan             3309 registros
-  Previcox               2396 registros
-  Rimadyl                2306 registros
-  Apoquel                2128 registros
-  Synulox                1473 registros
+  Nexgard               29703 registros
+  Simparic              18299 registros
+  Revolution            16845 registros
+  Drontal               16684 registros
+  Bravecto              16680 registros
+  Vermivet              11021 registros
+  Advocate               9990 registros
+  Frontline              9734 registros
+  Maxicam                5819 registros
+  Milbemax               5610 registros
+  Baytril                4685 registros
+  Onsior                 3633 registros
+  Zenrelia               3608 registros
+  Carproflan             3321 registros
+  Previcox               2404 registros
+  Rimadyl                2314 registros
+  Apoquel                2135 registros
+  Synulox                1478 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -6909,6 +6909,19 @@ petlove_20260507_205738.xlsx
      - Linha 26: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
      ... e mais 29
 
+petlove_20260805_205540.xlsx
+  Total: 250
+  Válidos: 217
+  Inválidos: 33
+  Duplicatas: 37
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 28
+
 cobasi_20260628_205021.xlsx
   Total: 159
   Válidos: 159
@@ -7993,6 +8006,19 @@ petz_20260508_204807.xlsx
      - Linha 134: Caixa de Transporte Furacão Pet Joy Preta para Cães e Gatos - Tam 1 (Drontal)
      - Linha 136: Petisco Pedigree Dentastix Cuidado Oral Para Cães Adultos Raças Grandes 7 Unidades (Drontal)
      ... e mais 31
+
+petz_20260805_205716.xlsx
+  Total: 228
+  Válidos: 188
+  Inválidos: 40
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 43: Casa Pet Injet Evolution Prime Colors Amarela (Revolution)
+     - Linha 44: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Preta para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 48: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 35
 
 petlove_20260425_202815.xlsx
   Total: 268
@@ -9128,6 +9154,12 @@ petlove_20260302_202456.xlsx
 cobasi_20260323_202850.xlsx
   Total: 149
   Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20260805_205438.xlsx
+  Total: 159
+  Válidos: 159
   Inválidos: 0
   Duplicatas: 14
 
