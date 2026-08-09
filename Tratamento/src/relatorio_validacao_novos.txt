@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 914
-Total de registros: 184878
-Registros válidos: 165470 (89.5%)
-Registros inválidos: 19408 (10.5%)
-Duplicatas exatas: 20267
+Total de arquivos: 917
+Total de registros: 185512
+Registros válidos: 166037 (89.5%)
+Registros inválidos: 19475 (10.5%)
+Duplicatas exatas: 20332
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               29952 registros
-  Simparic              18503 registros
-  Revolution            17001 registros
-  Drontal               16858 registros
-  Bravecto              16829 registros
-  Vermivet              11126 registros
-  Advocate              10074 registros
-  Frontline              9822 registros
-  Maxicam                5847 registros
-  Milbemax               5669 registros
-  Baytril                4725 registros
-  Onsior                 3665 registros
-  Zenrelia               3640 registros
-  Carproflan             3354 registros
-  Previcox               2426 registros
-  Rimadyl                2335 registros
-  Apoquel                2153 registros
-  Synulox                1491 registros
+  Nexgard               30047 registros
+  Simparic              18579 registros
+  Revolution            17058 registros
+  Drontal               16929 registros
+  Bravecto              16884 registros
+  Vermivet              11162 registros
+  Advocate              10106 registros
+  Frontline              9855 registros
+  Maxicam                5858 registros
+  Milbemax               5690 registros
+  Baytril                4741 registros
+  Onsior                 3677 registros
+  Zenrelia               3652 registros
+  Carproflan             3366 registros
+  Previcox               2434 registros
+  Rimadyl                2343 registros
+  Apoquel                2160 registros
+  Synulox                1496 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -935,6 +935,19 @@ petlove_20260427_205028.xlsx
      - Linha 26: Kit Ração Royal Canin Golden Retriever Adulto 10,1Kg e Antipulgas Simparic 80 mg para Cães 20,1 a 40Kg - KIT (Simparic)
      ... e mais 32
 
+petz_20260809_202152.xlsx
+  Total: 226
+  Válidos: 191
+  Inválidos: 35
+  Duplicatas: 14
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 43: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 44: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 45: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 46: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     - Linha 47: Casa Pet Injet Dog House Evolution Nude para Cães (Revolution)
+     ... e mais 30
+
 petlove_20251012_201256.xlsx
   Total: 255
   Válidos: 253
@@ -1109,6 +1122,19 @@ petlove_20260105_201504.xlsx
      - Linha 19: Coleira We Are Family Mandarino Laranja para Cães e Gatos - Tam. G (Simparic)
      - Linha 20: Coleira We Are Family Gema Amarela para Cães e Gatos - Tam. G (Simparic)
      ... e mais 22
+
+petlove_20260809_202014.xlsx
+  Total: 250
+  Válidos: 218
+  Inválidos: 32
+  Duplicatas: 37
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 27
 
 petlove_20260731_205240.xlsx
   Total: 250
@@ -2553,6 +2579,12 @@ cobasi_20251009_201150.xlsx
   Válidos: 162
   Inválidos: 0
   Duplicatas: 17
+
+cobasi_20260809_201912.xlsx
+  Total: 158
+  Válidos: 158
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20260101_201247.xlsx
   Total: 167
