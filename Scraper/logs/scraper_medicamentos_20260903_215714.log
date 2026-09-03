@@ -1,0 +1,284 @@
+2026-09-03 21:57:14,237 - configurador_logs - INFO - Sistema de logs configurado com sucesso
+2026-09-03 21:57:14,237 - configurador_logs - INFO - 🚀 Logs configurados para MODO PRODUÇÃO
+2026-09-03 21:57:14,237 - gerenciador_principal - INFO - Inicializando sistema - Modo: PRODUCAO
+2026-09-03 21:57:14,237 - gerenciador_arquivos - INFO - Pasta dados_coletados preparada
+2026-09-03 21:57:14,237 - gerenciador_principal - INFO - Sistema inicializado com 3 scrapers
+2026-09-03 21:57:14,237 - gerenciador_principal - INFO - ============================================================
+2026-09-03 21:57:14,238 - gerenciador_principal - INFO - INICIANDO SCRAPING COMPLETO - PRODUCAO
+2026-09-03 21:57:14,238 - gerenciador_principal - INFO - ============================================================
+2026-09-03 21:57:14,238 - gerenciador_principal - INFO - [1/3] Processando Cobasi
+2026-09-03 21:57:14,238 - scraper_base - INFO - 🚀 Iniciando scraping completo - Cobasi
+2026-09-03 21:57:14,634 - gerenciador_conexoes - INFO - Sessao estabelecida com cobasi.com.br
+2026-09-03 21:57:14,634 - scraper_base - INFO - 📋 20 medicamentos para processar
+2026-09-03 21:57:14,634 - scraper_base - INFO - 📦 [1/20] Processando Simparic
+2026-09-03 21:57:14,634 - scraper_base - INFO - 🔍 Cobasi: Buscando Simparic
+2026-09-03 21:57:19,453 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Simparic
+2026-09-03 21:57:19,453 - scraper_base - INFO - ✅ Cobasi: 24 produto(s) encontrado(s) para Simparic
+2026-09-03 21:57:21,070 - scraper_base - INFO - 📦 [2/20] Processando Revolution
+2026-09-03 21:57:21,070 - scraper_base - INFO - 🔍 Cobasi: Buscando Revolution
+2026-09-03 21:57:25,064 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Revolution
+2026-09-03 21:57:25,064 - scraper_base - INFO - ✅ Cobasi: 17 produto(s) encontrado(s) para Revolution
+2026-09-03 21:57:26,297 - scraper_base - INFO - 📦 [3/20] Processando NexGard
+2026-09-03 21:57:26,297 - scraper_base - INFO - 🔍 Cobasi: Buscando NexGard
+2026-09-03 21:57:30,397 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para NexGard
+2026-09-03 21:57:30,398 - scraper_base - INFO - ✅ Cobasi: 22 produto(s) encontrado(s) para NexGard
+2026-09-03 21:57:32,121 - scraper_base - INFO - 📦 [4/20] Processando NexGard Spectra
+2026-09-03 21:57:32,121 - scraper_base - INFO - 🔍 Cobasi: Buscando NexGard Spectra
+2026-09-03 21:57:36,475 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para NexGard Spectra
+2026-09-03 21:57:36,475 - scraper_base - INFO - ✅ Cobasi: 10 produto(s) encontrado(s) para NexGard Spectra
+2026-09-03 21:57:39,178 - scraper_base - INFO - 📦 [5/20] Processando NexGard Combo
+2026-09-03 21:57:39,178 - scraper_base - INFO - 🔍 Cobasi: Buscando NexGard Combo
+2026-09-03 21:57:43,328 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para NexGard Combo
+2026-09-03 21:57:43,328 - scraper_base - INFO - ✅ Cobasi: 4 produto(s) encontrado(s) para NexGard Combo
+2026-09-03 21:57:45,183 - scraper_base - INFO - 📦 [6/20] Processando Bravecto
+2026-09-03 21:57:45,183 - scraper_base - INFO - 🔍 Cobasi: Buscando Bravecto
+2026-09-03 21:57:49,251 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Bravecto
+2026-09-03 21:57:49,251 - scraper_base - INFO - ✅ Cobasi: 16 produto(s) encontrado(s) para Bravecto
+2026-09-03 21:57:52,208 - scraper_base - INFO - 📦 [7/20] Processando Frontline
+2026-09-03 21:57:52,209 - scraper_base - INFO - 🔍 Cobasi: Buscando Frontline
+2026-09-03 21:57:55,508 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Frontline
+2026-09-03 21:57:55,508 - scraper_base - INFO - ✅ Cobasi: 11 produto(s) encontrado(s) para Frontline
+2026-09-03 21:57:57,839 - scraper_base - INFO - 📦 [8/20] Processando Advocate
+2026-09-03 21:57:57,839 - scraper_base - INFO - 🔍 Cobasi: Buscando Advocate
+2026-09-03 21:58:01,871 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Advocate
+2026-09-03 21:58:01,871 - scraper_base - INFO - ✅ Cobasi: 12 produto(s) encontrado(s) para Advocate
+2026-09-03 21:58:04,175 - scraper_base - INFO - 📦 [9/20] Processando Drontal
+2026-09-03 21:58:04,175 - scraper_base - INFO - 🔍 Cobasi: Buscando Drontal
+2026-09-03 21:58:07,776 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Drontal
+2026-09-03 21:58:07,777 - scraper_base - INFO - ✅ Cobasi: 8 produto(s) encontrado(s) para Drontal
+2026-09-03 21:58:09,341 - scraper_base - INFO - 📦 [10/20] Processando Milbemax
+2026-09-03 21:58:09,341 - scraper_base - INFO - 🔍 Cobasi: Buscando Milbemax
+2026-09-03 21:58:12,445 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Milbemax
+2026-09-03 21:58:12,445 - scraper_base - INFO - ✅ Cobasi: 4 produto(s) encontrado(s) para Milbemax
+2026-09-03 21:58:13,900 - scraper_base - INFO - 📦 [11/20] Processando Vermivet
+2026-09-03 21:58:13,901 - scraper_base - INFO - 🔍 Cobasi: Buscando Vermivet
+2026-09-03 21:58:16,982 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Vermivet
+2026-09-03 21:58:16,983 - scraper_base - INFO - ✅ Cobasi: 5 produto(s) encontrado(s) para Vermivet
+2026-09-03 21:58:18,561 - scraper_base - INFO - 📦 [12/20] Processando Rimadyl
+2026-09-03 21:58:18,561 - scraper_base - INFO - 🔍 Cobasi: Buscando Rimadyl
+2026-09-03 21:58:21,465 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Rimadyl
+2026-09-03 21:58:21,465 - scraper_base - INFO - ✅ Cobasi: 3 produto(s) encontrado(s) para Rimadyl
+2026-09-03 21:58:23,985 - scraper_base - INFO - 📦 [13/20] Processando Onsior
+2026-09-03 21:58:23,985 - scraper_base - INFO - 🔍 Cobasi: Buscando Onsior
+2026-09-03 21:58:27,504 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Onsior
+2026-09-03 21:58:27,504 - scraper_base - INFO - ✅ Cobasi: 4 produto(s) encontrado(s) para Onsior
+2026-09-03 21:58:28,899 - scraper_base - INFO - 📦 [14/20] Processando Maxicam
+2026-09-03 21:58:28,900 - scraper_base - INFO - 🔍 Cobasi: Buscando Maxicam
+2026-09-03 21:58:32,087 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Maxicam
+2026-09-03 21:58:32,087 - scraper_base - INFO - ✅ Cobasi: 3 produto(s) encontrado(s) para Maxicam
+2026-09-03 21:58:33,696 - scraper_base - INFO - 📦 [15/20] Processando Carproflan
+2026-09-03 21:58:33,696 - scraper_base - INFO - 🔍 Cobasi: Buscando Carproflan
+2026-09-03 21:58:37,250 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Carproflan
+2026-09-03 21:58:37,250 - scraper_base - INFO - ✅ Cobasi: 3 produto(s) encontrado(s) para Carproflan
+2026-09-03 21:58:38,844 - scraper_base - INFO - 📦 [16/20] Processando Previcox
+2026-09-03 21:58:38,844 - scraper_base - INFO - 🔍 Cobasi: Buscando Previcox
+2026-09-03 21:58:41,135 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Previcox
+2026-09-03 21:58:41,135 - scraper_base - INFO - ✅ Cobasi: 2 produto(s) encontrado(s) para Previcox
+2026-09-03 21:58:43,325 - scraper_base - INFO - 📦 [17/20] Processando Apoquel
+2026-09-03 21:58:43,325 - scraper_base - INFO - 🔍 Cobasi: Buscando Apoquel
+2026-09-03 21:58:46,232 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Apoquel
+2026-09-03 21:58:46,232 - scraper_base - INFO - ✅ Cobasi: 3 produto(s) encontrado(s) para Apoquel
+2026-09-03 21:58:47,385 - scraper_base - INFO - 📦 [18/20] Processando Zenrelia
+2026-09-03 21:58:47,385 - scraper_base - INFO - 🔍 Cobasi: Buscando Zenrelia
+2026-09-03 21:58:50,648 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Zenrelia
+2026-09-03 21:58:50,648 - scraper_base - INFO - ✅ Cobasi: 4 produto(s) encontrado(s) para Zenrelia
+2026-09-03 21:58:52,419 - scraper_base - INFO - 📦 [19/20] Processando Synulox
+2026-09-03 21:58:52,419 - scraper_base - INFO - 🔍 Cobasi: Buscando Synulox
+2026-09-03 21:58:55,181 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Synulox
+2026-09-03 21:58:55,181 - scraper_base - INFO - ✅ Cobasi: 2 produto(s) encontrado(s) para Synulox
+2026-09-03 21:58:56,504 - scraper_base - INFO - 📦 [20/20] Processando Baytril
+2026-09-03 21:58:56,504 - scraper_base - INFO - 🔍 Cobasi: Buscando Baytril
+2026-09-03 21:58:59,486 - scraper_cobasi - INFO - Cobasi: Dados extraídos via JSON para Baytril
+2026-09-03 21:58:59,486 - scraper_base - INFO - ✅ Cobasi: 2 produto(s) encontrado(s) para Baytril
+2026-09-03 21:59:01,128 - scraper_base - INFO - 📊 Cobasi - Estatísticas finais:
+2026-09-03 21:59:01,128 - scraper_base - INFO -    • Medicamentos processados: 20
+2026-09-03 21:59:01,128 - scraper_base - INFO -    • Produtos encontrados: 159
+2026-09-03 21:59:01,128 - scraper_base - INFO -    • Medicamentos sem resultado: 0
+2026-09-03 21:59:01,129 - scraper_base - INFO -    • Tempo total: 106.9s
+2026-09-03 21:59:01,129 - scraper_base - INFO -    • Tempo médio por medicamento: 5.3s
+2026-09-03 21:59:01,323 - gerenciador_arquivos - INFO - Excel salvo: dados_coletados/cobasi_20260903_215901.xlsx (159 produtos)
+2026-09-03 21:59:01,323 - gerenciador_principal - INFO - Cobasi: Arquivo individual salvo com sucesso
+2026-09-03 21:59:01,323 - gerenciador_principal - INFO - Pausando entre sites...
+2026-09-03 21:59:03,323 - gerenciador_principal - INFO - [2/3] Processando Petlove
+2026-09-03 21:59:03,323 - scraper_base - INFO - 🚀 Iniciando scraping completo - Petlove
+2026-09-03 21:59:03,502 - gerenciador_conexoes - INFO - Sessao estabelecida com petlove.com.br
+2026-09-03 21:59:03,502 - scraper_base - INFO - 📋 20 medicamentos para processar
+2026-09-03 21:59:03,502 - scraper_base - INFO - 📦 [1/20] Processando Simparic
+2026-09-03 21:59:03,502 - scraper_base - INFO - 🔍 Petlove: Buscando Simparic
+2026-09-03 21:59:04,315 - scraper_base - INFO - ✅ Petlove: 36 produto(s) encontrado(s) para Simparic
+2026-09-03 21:59:06,435 - scraper_base - INFO - 📦 [2/20] Processando Revolution
+2026-09-03 21:59:06,435 - scraper_base - INFO - 🔍 Petlove: Buscando Revolution
+2026-09-03 21:59:07,420 - scraper_base - INFO - ✅ Petlove: 19 produto(s) encontrado(s) para Revolution
+2026-09-03 21:59:09,156 - scraper_base - INFO - 📦 [3/20] Processando NexGard
+2026-09-03 21:59:09,156 - scraper_base - INFO - 🔍 Petlove: Buscando NexGard
+2026-09-03 21:59:09,857 - scraper_base - INFO - ✅ Petlove: 11 produto(s) encontrado(s) para NexGard
+2026-09-03 21:59:12,001 - scraper_base - INFO - 📦 [4/20] Processando NexGard Spectra
+2026-09-03 21:59:12,001 - scraper_base - INFO - 🔍 Petlove: Buscando NexGard Spectra
+2026-09-03 21:59:12,892 - scraper_base - INFO - ✅ Petlove: 5 produto(s) encontrado(s) para NexGard Spectra
+2026-09-03 21:59:15,743 - scraper_base - INFO - 📦 [5/20] Processando NexGard Combo
+2026-09-03 21:59:15,743 - scraper_base - INFO - 🔍 Petlove: Buscando NexGard Combo
+2026-09-03 21:59:16,431 - scraper_base - INFO - ✅ Petlove: 2 produto(s) encontrado(s) para NexGard Combo
+2026-09-03 21:59:18,263 - scraper_base - INFO - 📦 [6/20] Processando Bravecto
+2026-09-03 21:59:18,263 - scraper_base - INFO - 🔍 Petlove: Buscando Bravecto
+2026-09-03 21:59:19,196 - scraper_base - INFO - ✅ Petlove: 23 produto(s) encontrado(s) para Bravecto
+2026-09-03 21:59:20,463 - scraper_base - INFO - 📦 [7/20] Processando Frontline
+2026-09-03 21:59:20,464 - scraper_base - INFO - 🔍 Petlove: Buscando Frontline
+2026-09-03 21:59:21,179 - scraper_base - INFO - ✅ Petlove: 11 produto(s) encontrado(s) para Frontline
+2026-09-03 21:59:22,575 - scraper_base - INFO - 📦 [8/20] Processando Advocate
+2026-09-03 21:59:22,575 - scraper_base - INFO - 🔍 Petlove: Buscando Advocate
+2026-09-03 21:59:23,205 - scraper_base - INFO - ✅ Petlove: 9 produto(s) encontrado(s) para Advocate
+2026-09-03 21:59:25,897 - scraper_base - INFO - 📦 [9/20] Processando Drontal
+2026-09-03 21:59:25,897 - scraper_base - INFO - 🔍 Petlove: Buscando Drontal
+2026-09-03 21:59:26,768 - scraper_base - INFO - ✅ Petlove: 36 produto(s) encontrado(s) para Drontal
+2026-09-03 21:59:27,966 - scraper_base - INFO - 📦 [10/20] Processando Milbemax
+2026-09-03 21:59:27,966 - scraper_base - INFO - 🔍 Petlove: Buscando Milbemax
+2026-09-03 21:59:28,626 - scraper_base - INFO - ✅ Petlove: 14 produto(s) encontrado(s) para Milbemax
+2026-09-03 21:59:31,263 - scraper_base - INFO - 📦 [11/20] Processando Vermivet
+2026-09-03 21:59:31,263 - scraper_base - INFO - 🔍 Petlove: Buscando Vermivet
+2026-09-03 21:59:32,508 - scraper_base - INFO - ✅ Petlove: 36 produto(s) encontrado(s) para Vermivet
+2026-09-03 21:59:33,767 - scraper_base - INFO - 📦 [12/20] Processando Rimadyl
+2026-09-03 21:59:33,767 - scraper_base - INFO - 🔍 Petlove: Buscando Rimadyl
+2026-09-03 21:59:34,486 - scraper_base - INFO - ✅ Petlove: 1 produto(s) encontrado(s) para Rimadyl
+2026-09-03 21:59:37,292 - scraper_base - INFO - 📦 [13/20] Processando Onsior
+2026-09-03 21:59:37,292 - scraper_base - INFO - 🔍 Petlove: Buscando Onsior
+2026-09-03 21:59:38,044 - scraper_base - INFO - ✅ Petlove: 4 produto(s) encontrado(s) para Onsior
+2026-09-03 21:59:39,854 - scraper_base - INFO - 📦 [14/20] Processando Maxicam
+2026-09-03 21:59:39,855 - scraper_base - INFO - 🔍 Petlove: Buscando Maxicam
+2026-09-03 21:59:40,509 - scraper_base - INFO - ✅ Petlove: 3 produto(s) encontrado(s) para Maxicam
+2026-09-03 21:59:42,730 - scraper_base - INFO - 📦 [15/20] Processando Carproflan
+2026-09-03 21:59:42,731 - scraper_base - INFO - 🔍 Petlove: Buscando Carproflan
+2026-09-03 21:59:43,437 - scraper_base - INFO - ✅ Petlove: 7 produto(s) encontrado(s) para Carproflan
+2026-09-03 21:59:44,621 - scraper_base - INFO - 📦 [16/20] Processando Previcox
+2026-09-03 21:59:44,621 - scraper_base - INFO - 🔍 Petlove: Buscando Previcox
+2026-09-03 21:59:45,221 - scraper_base - INFO - ✅ Petlove: 4 produto(s) encontrado(s) para Previcox
+2026-09-03 21:59:48,065 - scraper_base - INFO - 📦 [17/20] Processando Apoquel
+2026-09-03 21:59:48,065 - scraper_base - INFO - 🔍 Petlove: Buscando Apoquel
+2026-09-03 21:59:48,878 - scraper_base - INFO - ✅ Petlove: 16 produto(s) encontrado(s) para Apoquel
+2026-09-03 21:59:50,062 - scraper_base - INFO - 📦 [18/20] Processando Zenrelia
+2026-09-03 21:59:50,062 - scraper_base - INFO - 🔍 Petlove: Buscando Zenrelia
+2026-09-03 21:59:50,730 - scraper_base - INFO - ✅ Petlove: 4 produto(s) encontrado(s) para Zenrelia
+2026-09-03 21:59:53,001 - scraper_base - INFO - 📦 [19/20] Processando Synulox
+2026-09-03 21:59:53,001 - scraper_base - INFO - 🔍 Petlove: Buscando Synulox
+2026-09-03 21:59:53,784 - scraper_base - INFO - ✅ Petlove: 1 produto(s) encontrado(s) para Synulox
+2026-09-03 21:59:56,021 - scraper_base - INFO - 📦 [20/20] Processando Baytril
+2026-09-03 21:59:56,022 - scraper_base - INFO - 🔍 Petlove: Buscando Baytril
+2026-09-03 21:59:56,651 - scraper_base - INFO - ✅ Petlove: 6 produto(s) encontrado(s) para Baytril
+2026-09-03 21:59:58,548 - scraper_base - INFO - 📊 Petlove - Estatísticas finais:
+2026-09-03 21:59:58,549 - scraper_base - INFO -    • Medicamentos processados: 20
+2026-09-03 21:59:58,549 - scraper_base - INFO -    • Produtos encontrados: 248
+2026-09-03 21:59:58,549 - scraper_base - INFO -    • Medicamentos sem resultado: 0
+2026-09-03 21:59:58,549 - scraper_base - INFO -    • Tempo total: 55.2s
+2026-09-03 21:59:58,549 - scraper_base - INFO -    • Tempo médio por medicamento: 2.8s
+2026-09-03 21:59:58,595 - gerenciador_arquivos - INFO - Excel salvo: dados_coletados/petlove_20260903_215958.xlsx (248 produtos)
+2026-09-03 21:59:58,595 - gerenciador_principal - INFO - Petlove: Arquivo individual salvo com sucesso
+2026-09-03 21:59:58,595 - gerenciador_principal - INFO - Pausando entre sites...
+2026-09-03 22:00:00,595 - gerenciador_principal - INFO - [3/3] Processando Petz
+2026-09-03 22:00:00,595 - scraper_base - INFO - 🚀 Iniciando scraping completo - Petz
+2026-09-03 22:00:00,877 - scraper_base - INFO - 📋 20 medicamentos para processar
+2026-09-03 22:00:00,877 - scraper_base - INFO - 📦 [1/20] Processando Simparic
+2026-09-03 22:00:00,877 - scraper_base - INFO - 🔍 Petz: Buscando Simparic
+2026-09-03 22:00:02,455 - gerenciador_conexoes - INFO - Chrome inicializado com otimizacoes de velocidade
+2026-09-03 22:00:07,718 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Simparic
+2026-09-03 22:00:07,718 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Simparic
+2026-09-03 22:00:10,029 - scraper_base - INFO - 📦 [2/20] Processando Revolution
+2026-09-03 22:00:10,029 - scraper_base - INFO - 🔍 Petz: Buscando Revolution
+2026-09-03 22:00:13,168 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Revolution
+2026-09-03 22:00:13,168 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Revolution
+2026-09-03 22:00:15,825 - scraper_base - INFO - 📦 [3/20] Processando NexGard
+2026-09-03 22:00:15,825 - scraper_base - INFO - 🔍 Petz: Buscando NexGard
+2026-09-03 22:00:18,214 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para NexGard
+2026-09-03 22:00:18,214 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para NexGard
+2026-09-03 22:00:19,711 - scraper_base - INFO - 📦 [4/20] Processando NexGard Spectra
+2026-09-03 22:00:19,711 - scraper_base - INFO - 🔍 Petz: Buscando NexGard Spectra
+2026-09-03 22:00:21,788 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para NexGard Spectra
+2026-09-03 22:00:21,788 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para NexGard Spectra
+2026-09-03 22:00:24,536 - scraper_base - INFO - 📦 [5/20] Processando NexGard Combo
+2026-09-03 22:00:24,536 - scraper_base - INFO - 🔍 Petz: Buscando NexGard Combo
+2026-09-03 22:00:27,379 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para NexGard Combo
+2026-09-03 22:00:27,380 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para NexGard Combo
+2026-09-03 22:00:29,930 - scraper_base - INFO - 📦 [6/20] Processando Bravecto
+2026-09-03 22:00:29,931 - scraper_base - INFO - 🔍 Petz: Buscando Bravecto
+2026-09-03 22:00:32,054 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Bravecto
+2026-09-03 22:00:32,054 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Bravecto
+2026-09-03 22:00:33,646 - scraper_base - INFO - 📦 [7/20] Processando Frontline
+2026-09-03 22:00:33,647 - scraper_base - INFO - 🔍 Petz: Buscando Frontline
+2026-09-03 22:00:35,991 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Frontline
+2026-09-03 22:00:35,991 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Frontline
+2026-09-03 22:00:38,619 - scraper_base - INFO - 📦 [8/20] Processando Advocate
+2026-09-03 22:00:38,619 - scraper_base - INFO - 🔍 Petz: Buscando Advocate
+2026-09-03 22:00:40,677 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Advocate
+2026-09-03 22:00:40,677 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Advocate
+2026-09-03 22:00:41,704 - scraper_base - INFO - 📦 [9/20] Processando Drontal
+2026-09-03 22:00:41,704 - scraper_base - INFO - 🔍 Petz: Buscando Drontal
+2026-09-03 22:00:44,477 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Drontal
+2026-09-03 22:00:44,477 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Drontal
+2026-09-03 22:00:47,168 - scraper_base - INFO - 📦 [10/20] Processando Milbemax
+2026-09-03 22:00:47,168 - scraper_base - INFO - 🔍 Petz: Buscando Milbemax
+2026-09-03 22:00:49,475 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Milbemax
+2026-09-03 22:00:49,475 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Milbemax
+2026-09-03 22:00:51,926 - scraper_base - INFO - 📦 [11/20] Processando Vermivet
+2026-09-03 22:00:51,926 - scraper_base - INFO - 🔍 Petz: Buscando Vermivet
+2026-09-03 22:00:54,683 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Vermivet
+2026-09-03 22:00:54,684 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Vermivet
+2026-09-03 22:00:56,162 - scraper_base - INFO - 📦 [12/20] Processando Rimadyl
+2026-09-03 22:00:56,162 - scraper_base - INFO - 🔍 Petz: Buscando Rimadyl
+2026-09-03 22:00:58,220 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Rimadyl
+2026-09-03 22:00:58,220 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Rimadyl
+2026-09-03 22:01:00,468 - scraper_base - INFO - 📦 [13/20] Processando Onsior
+2026-09-03 22:01:00,468 - scraper_base - INFO - 🔍 Petz: Buscando Onsior
+2026-09-03 22:01:03,475 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Onsior
+2026-09-03 22:01:03,475 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Onsior
+2026-09-03 22:01:05,978 - scraper_base - INFO - 📦 [14/20] Processando Maxicam
+2026-09-03 22:01:05,978 - scraper_base - INFO - 🔍 Petz: Buscando Maxicam
+2026-09-03 22:01:09,435 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Maxicam
+2026-09-03 22:01:09,435 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Maxicam
+2026-09-03 22:01:11,201 - scraper_base - INFO - 📦 [15/20] Processando Carproflan
+2026-09-03 22:01:11,201 - scraper_base - INFO - 🔍 Petz: Buscando Carproflan
+2026-09-03 22:01:13,454 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Carproflan
+2026-09-03 22:01:13,455 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Carproflan
+2026-09-03 22:01:15,843 - scraper_base - INFO - 📦 [16/20] Processando Previcox
+2026-09-03 22:01:15,843 - scraper_base - INFO - 🔍 Petz: Buscando Previcox
+2026-09-03 22:01:17,763 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Previcox
+2026-09-03 22:01:17,764 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Previcox
+2026-09-03 22:01:19,672 - scraper_base - INFO - 📦 [17/20] Processando Apoquel
+2026-09-03 22:01:19,672 - scraper_base - INFO - 🔍 Petz: Buscando Apoquel
+2026-09-03 22:01:21,711 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Apoquel
+2026-09-03 22:01:21,711 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Apoquel
+2026-09-03 22:01:23,920 - scraper_base - INFO - 📦 [18/20] Processando Zenrelia
+2026-09-03 22:01:23,920 - scraper_base - INFO - 🔍 Petz: Buscando Zenrelia
+2026-09-03 22:01:25,773 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Zenrelia
+2026-09-03 22:01:25,773 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Zenrelia
+2026-09-03 22:01:27,967 - scraper_base - INFO - 📦 [19/20] Processando Synulox
+2026-09-03 22:01:27,967 - scraper_base - INFO - 🔍 Petz: Buscando Synulox
+2026-09-03 22:01:29,903 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Synulox
+2026-09-03 22:01:29,904 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Synulox
+2026-09-03 22:01:31,865 - scraper_base - INFO - 📦 [20/20] Processando Baytril
+2026-09-03 22:01:31,865 - scraper_base - INFO - 🔍 Petz: Buscando Baytril
+2026-09-03 22:01:34,172 - scraper_petz - INFO - Petz: Nenhum product-card encontrado para Baytril
+2026-09-03 22:01:34,172 - scraper_base - INFO - ⚪ Petz: Nenhum produto encontrado para Baytril
+2026-09-03 22:01:37,062 - scraper_base - INFO - 📊 Petz - Estatísticas finais:
+2026-09-03 22:01:37,062 - scraper_base - INFO -    • Medicamentos processados: 20
+2026-09-03 22:01:37,062 - scraper_base - INFO -    • Produtos encontrados: 0
+2026-09-03 22:01:37,062 - scraper_base - INFO -    • Medicamentos sem resultado: 20
+2026-09-03 22:01:37,062 - scraper_base - INFO -    • Tempo total: 96.5s
+2026-09-03 22:01:37,062 - scraper_base - INFO -    • Tempo médio por medicamento: 4.8s
+2026-09-03 22:01:37,062 - gerenciador_principal - WARNING - Petz: Nenhum produto coletado
+2026-09-03 22:01:37,062 - gerenciador_principal - INFO - Gerando relatório consolidado...
+2026-09-03 22:01:37,206 - gerenciador_arquivos - INFO - Relatório consolidado salvo: dados_relatorios/relatorio_consolidado_20260903_220137.xlsx
+2026-09-03 22:01:37,315 - gerenciador_conexoes - INFO - Chrome fechado
+2026-09-03 22:01:37,315 - gerenciador_conexoes - INFO - Métodos utilizados - Requests: 66.7%, Selenium: 33.3%, Falhas: 0.0%
+2026-09-03 22:01:37,315 - gerenciador_principal - INFO - ============================================================
+2026-09-03 22:01:37,315 - gerenciador_principal - INFO - RELATORIO FINAL DE EXECUÇÃO
+2026-09-03 22:01:37,315 - gerenciador_principal - INFO - ============================================================
+2026-09-03 22:01:37,315 - gerenciador_principal - INFO - Sites processados: 3
+2026-09-03 22:01:37,315 - gerenciador_principal - INFO - Sites com sucesso: 2
+2026-09-03 22:01:37,315 - gerenciador_principal - INFO - Total de produtos coletados: 407
+2026-09-03 22:01:37,315 - gerenciador_principal - WARNING - Sites com falhas: Petz
+2026-09-03 22:01:37,315 - gerenciador_principal - INFO - Tempo total de execução: 262.8 segundos
+2026-09-03 22:01:37,316 - gerenciador_principal - INFO - Estatísticas de conexão:
+2026-09-03 22:01:37,316 - gerenciador_principal - INFO -   - Requests bem-sucedidos: 66.7%
+2026-09-03 22:01:37,316 - gerenciador_principal - INFO -   - Selenium fallback: 33.3%
+2026-09-03 22:01:37,316 - gerenciador_principal - INFO -   - Falhas totais: 0.0%
+2026-09-03 22:01:37,320 - gerenciador_principal - INFO - Arquivos salvos na pasta: dados_coletados
+2026-09-03 22:01:37,320 - gerenciador_principal - INFO - Total de arquivos: 969
+2026-09-03 22:01:37,321 - gerenciador_principal - INFO - ============================================================
