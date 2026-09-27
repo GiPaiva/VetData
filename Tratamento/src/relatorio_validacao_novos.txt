@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 1015
-Total de registros: 205512
-Registros válidos: 184459 (89.8%)
-Registros inválidos: 21053 (10.2%)
-Duplicatas exatas: 22823
+Total de arquivos: 1017
+Total de registros: 205915
+Registros válidos: 184832 (89.8%)
+Registros inválidos: 21083 (10.2%)
+Duplicatas exatas: 22875
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               32951 registros
-  Simparic              21121 registros
-  Revolution            19008 registros
-  Drontal               18912 registros
-  Bravecto              18783 registros
-  Vermivet              12652 registros
-  Advocate              11090 registros
-  Frontline             10933 registros
-  Milbemax               6514 registros
-  Maxicam                6153 registros
-  Baytril                5144 registros
-  Onsior                 4069 registros
-  Zenrelia               4044 registros
-  Carproflan             3769 registros
-  Previcox               2725 registros
-  Rimadyl                2589 registros
-  Apoquel                2358 registros
-  Synulox                1644 registros
+  Nexgard               33010 registros
+  Simparic              21173 registros
+  Revolution            19047 registros
+  Drontal               18953 registros
+  Bravecto              18819 registros
+  Vermivet              12683 registros
+  Advocate              11110 registros
+  Frontline             10955 registros
+  Milbemax               6531 registros
+  Maxicam                6159 registros
+  Baytril                5152 registros
+  Onsior                 4077 registros
+  Zenrelia               4052 registros
+  Carproflan             3777 registros
+  Previcox               2731 registros
+  Rimadyl                2594 registros
+  Apoquel                2362 registros
+  Synulox                1647 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -9071,6 +9071,19 @@ cobasi_20260124_201139.xlsx
   Inválidos: 0
   Duplicatas: 16
 
+petlove_20260927_224018.xlsx
+  Total: 245
+  Válidos: 215
+  Inválidos: 30
+  Duplicatas: 38
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 25: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 26: .KIT RaçãoFórmula Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 80mg 1 Comprimido KIT - KIT (Simparic)
+     ... e mais 25
+
 petlove_20260203_202514.xlsx
   Total: 209
   Válidos: 192
@@ -10010,6 +10023,12 @@ petlove_20251226_201307.xlsx
      - Linha 30: Brinquedo Mordedor Germanhart Revolucionado para Cães - Tam. Único (Revolution)
      - Linha 106: Kit Drontal Plus Sabor Carne e Coleira Antipulgas e Carrapatos Elanco Seresto - KIT (Drontal)
      - Linha 163: Kit Agener União Anti-inflamatório Carproflan 25 mg e Suplemento Alimentar Procart 60 comprimidos - KIT (Carproflan)
+
+cobasi_20260927_223916.xlsx
+  Total: 158
+  Válidos: 158
+  Inválidos: 0
+  Duplicatas: 14
 
 cobasi_20260411_202023.xlsx
   Total: 149
