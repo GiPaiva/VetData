@@ -4,32 +4,32 @@ RELATÓRIO DE VALIDAÇÃO DE DADOS
 
 📊 RESUMO GERAL
 --------------------------------------------------------------------------------
-Total de arquivos: 1111
-Total de registros: 224990
-Registros válidos: 202360 (89.9%)
-Registros inválidos: 22630 (10.1%)
-Duplicatas exatas: 25402
+Total de arquivos: 1113
+Total de registros: 225432
+Registros válidos: 202766 (89.9%)
+Registros inválidos: 22666 (10.1%)
+Duplicatas exatas: 25461
 
 💊 DISTRIBUIÇÃO POR MEDICAMENTO
 --------------------------------------------------------------------------------
-  Nexgard               35651 registros
-  Simparic              23536 registros
-  Revolution            20833 registros
-  Drontal               20735 registros
-  Bravecto              20423 registros
-  Vermivet              14140 registros
-  Advocate              12001 registros
-  Frontline             11945 registros
-  Milbemax               7508 registros
-  Maxicam                6433 registros
-  Baytril                5474 registros
-  Zenrelia               4947 registros
-  Onsior                 4437 registros
-  Carproflan             4149 registros
-  Previcox               3001 registros
-  Rimadyl                2829 registros
-  Apoquel                2538 registros
-  Synulox                1780 registros
+  Nexgard               35710 registros
+  Simparic              23585 registros
+  Revolution            20873 registros
+  Drontal               20771 registros
+  Bravecto              20459 registros
+  Vermivet              14173 registros
+  Advocate              12021 registros
+  Frontline             11967 registros
+  Milbemax               7534 registros
+  Maxicam                6439 registros
+  Baytril                5481 registros
+  Zenrelia               4985 registros
+  Onsior                 4445 registros
+  Carproflan             4157 registros
+  Previcox               3007 registros
+  Rimadyl                2834 registros
+  Apoquel                2542 registros
+  Synulox                1783 registros
 
 📁 DETALHES POR ARQUIVO
 --------------------------------------------------------------------------------
@@ -4035,6 +4035,19 @@ petz_20260116_201547.xlsx
      - Linha 35: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      - Linha 36: Casa Pet Injet Dog House Evolution Rosa para Cães (Revolution)
      ... e mais 43
+
+petlove_20261114_232948.xlsx
+  Total: 284
+  Válidos: 248
+  Inválidos: 36
+  Duplicatas: 45
+  ⚠️  Produtos inválidos encontrados:
+     - Linha 20: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 5 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 21: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 120 mg 40,1 a 60Kg KIT - KIT (Simparic)
+     - Linha 22: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 10 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 23: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 40 mg (1 Comprimido) KIT - KIT (Simparic)
+     - Linha 24: .KIT Ração Seca Natural Fresh Meat Cães Filhotes Raças Médias 12Kg + Antipulgas Simparic 20 mg (5,1 a 10Kg) KIT - KIT (Simparic)
+     ... e mais 31
 
 cobasi_20250928_094127.xlsx
   Total: 160
@@ -9427,6 +9440,12 @@ petz_20260706_212201.xlsx
 cobasi_20260405_202152.xlsx
   Total: 149
   Válidos: 149
+  Inválidos: 0
+  Duplicatas: 14
+
+cobasi_20261114_232851.xlsx
+  Total: 158
+  Válidos: 158
   Inválidos: 0
   Duplicatas: 14
 
